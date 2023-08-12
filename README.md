@@ -1,8 +1,8 @@
 # God_Osint
 A tool to collect information passively Who can use this tool? Intelligence organizations and hackers and research organizations and...
 
-#installation                                                
-  python Live_Server.py
+                                                  installation                                                
+  Python Live_Server.py
   ![God-Osint1](https://github.com/lda-0day/God_Osint/assets/142007052/f96aab98-4621-40e4-b7bf-76dff6d7242c)
   
   run with extension live server in vscode
