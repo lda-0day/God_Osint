@@ -1,3 +1,4 @@
 # God_Osint
 A tool to collect information passively Who can use this tool? Intelligence organizations and hackers and research organizations and...
-![logo2](https://github.com/lda-0day/God_Osint/assets/142007052/74fd702d-fd39-4abb-82ab-85ae170aac98)
+                                                #installation         #more about
+installation                                                
