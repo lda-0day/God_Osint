@@ -3,6 +3,7 @@ A tool to collect information passively Who can use this tool? Intelligence orga
                     
 # installation
     git clone https://github.com/lda-0day/God_Osint.git
+    cd God_Osint
     cd God-Osint
     python Live_Server.py
       
