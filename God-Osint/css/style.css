@@ -1,0 +1,41 @@
+body {
+  background-color: #2b2b2b;
+  color: #fff;
+}
+
+.node circle {
+  fill: #ff4d4d; 
+  stroke: #fff;
+  stroke-width: 2px;
+  transition: all 0.3s ease-in-out;
+}
+
+.node circle:hover {
+  fill: #8bc34a; 
+  stroke: #fff;
+  animation: pulse-hover 2s linear infinite;
+}
+
+@keyframes pulse-hover {
+  0% {
+    fill: #237a95; 
+  }
+  50% {
+    fill: #058d45; 
+  }
+  100% {
+    fill: #861b06; 
+  }
+}
+
+.node text {
+  font-size: 14px;
+  fill: #237a95; 
+  font-family: Arial, sans-serif;
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 0.2px;
+}

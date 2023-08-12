@@ -1,0 +1,5275 @@
+{
+  "children": [
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Name-Chk🖥️",
+        "type": "url",
+        "url": "https://namechk.com/"
+      },
+      {
+        "name": "Intel-Techniques🖥️",
+        "type": "url",
+        "url": "https://inteltechniques.com/tools/Username.html"
+      },
+      {
+        "name": "Sherlock🗡️",
+        "type": "url",
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      {
+        "name": "Aware-Online🖥️",
+        "type": "url",
+        "url": "https://www.aware-online.com/en/osint-tools/username-search-tool/"
+      },
+      {
+        "name": "Maigret🗡️",
+        "type": "url",
+        "url": "https://github.com/soxoj/maigret/blob/main/README.md"
+      },
+      {
+        "name": "Top10-UsernameChecker📝",
+        "type": "url",
+        "url": "https://medium.com/@ibederov_en/my-top-10-osint-tools-for-nickname-investigation-40e292fa5c84"
+      },
+      {
+        "name": "Whats-MyName🗡️",
+        "type": "url",
+        "url": "https://github.com/WebBreacher/WhatsMyName"
+      },
+      {
+        "name": "Id-Crawl🖥️",
+        "type": "url",
+        "url": "https://www.idcrawl.com/username"
+      },
+      {
+        "name": "User-Searcher🖥️",
+        "type": "url",
+        "url": "https://www.user-searcher.com/"
+      },
+      {
+        "name": "UserNameCheckers-List📝",
+        "type": "url",
+        "url": "https://github.com/soxoj/osint-namecheckers-list"
+      },
+      {
+        "name": "Instant-Username-Search🖥️",
+        "type": "url",
+        "url": "https://instantusername.com/"
+      }],
+      "name": "Username Search Engines",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Espysys🖥️",
+        "type": "url",
+        "url": "https://espysys.com/osint-tools-and-api/name-username-lookup/"
+      },
+      {
+        "name": "Reverse-Username-Search🖥️",
+        "type": "url",
+        "url": "https://socialcatfish.com/reverse-username-search/"
+      },
+      {
+        "name": "Info-Tracer🖥️",
+        "type": "url",
+        "url": "https://infotracer.com/username-search/"
+      },
+      {
+        "name": "Topics-Username-Search🗡️",
+        "type": "url",
+        "url": "https://github.com/topics/username-search"
+      },
+      {
+        "name": "Maigret🖥️",
+        "type": "url",
+        "url": "https://github.com/soxoj/maigret/blob/main/README.md"
+      },
+      {
+        "name": "Best-Reverse-Username🖥️",
+        "type": "url",
+        "url": "https://www.ryanhart.org/reverse-username-search/"
+      }
+    ],
+      "name": "Reverse Username(S)",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Instagram🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=site%3AInstagram.com+%3Cusername%3E&ei=6ul5ZIGKNYv2kwW2sZPQCw&ved=0ahUKEwiBp7CM1KT_AhUL-6QKHbbYBLoQ4dUDCA8&oq=site%3AInstagram.com+%3Cusername%3E&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDEoECEEYAVAAWABg8fcBaANwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz-serp"
+      },
+      {
+        "name": "Google🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=%22amir%22&biw=1536&bih=746&ei=nup5ZM61M9C1sAfrq7roCQ&ved=0ahUKEwjO_Jji1KT_AhXQGuwKHeuVDp0Q4dUDCA8&oq=%22amir%22&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDDIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwA0oECEEYAFAAWABggoEBaANwAXgAgAEAiAEAkgEAmAEAwAEByAEI&sclient=gws-wiz-serp"
+      },
+      {
+        "name": "Advance-Dork🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=%22username%22+site%3Alinkedin.com+OR+site%3Atwitter.com+OR+site%3Ainstagram.com+OR+site%3Afacebook.com&oq=%22username%22+site%3Alinkedin.com+OR+site%3Atwitter.com+OR+site%3Ainstagram.com+OR+site%3Afacebook.com&aqs=chrome..69i57.1544j0j7&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "name": "Medium-Dork🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=site%3Amedium.com%2F%40username&oq=site%3Amedium.com%2F%40username+&aqs=chrome..69i57j69i58.182539192j0j15&sourceid=chrome&ie=UTF-8"
+      }
+    ],
+      "name": "Osint-Username-Dork",
+      "type": "folder"
+    }],
+    "name": "Username",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Yougetsignal🖥️",
+        "type": "url",
+        "url": "https://www.yougetsignal.com/tools/reverse-email-lookup/"
+      },
+      {
+        "name": "Hunter🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj"
+      },
+      {
+        "name": "H8mail🗡️",
+        "type": "url",
+        "url": "https://github.com/khast3x/h8mail"
+      },
+      {
+        "name": "Spokeo🖥️",
+        "type": "url",
+        "url": "https://www.spokeo.com/email-search?k_clickid=10baf871-711e-47a8-9c55-98bb3929715d&g=phone_gs_B&gclid=CjwKCAjww7KmBhAyEiwA5-PUSoypTA5Y94GBlcYlql_AbtXfVSUVvYD0oYxBwbJCcynwzUzQni6YERoC2sUQAvD_BwE"
+      },
+      {
+        "name": "Epieos🖥️",
+        "type": "url",
+        "url": "https://epieos.com/"
+      },
+      {
+        "name": "Top5-Email-Osint📝",
+        "type": "url",
+        "url": "https://osintcurio.us/2022/04/13/ritus-top-5-email-address-osint-resources/"
+      },
+      {
+        "name": "The-Harvester🗡️",
+        "type": "url",
+        "url": "https://github.com/laramies/theHarvester"
+      },
+      {
+        "name": "Peoplesmart🖥️",
+        "type": "url",
+        "url": "https://www.peoplesmart.com/?utm_source=google&utm_medium=cpc&utm_campaign=PS_ALL_SEA_PRP_COM_V4&utm_term=reverse%20email%20lookup%20spokeo&utm_content=648206496882&matchtype=b&adgroup=144739253263&device=c&pagetype=email&gclid=CjwKCAjww7KmBhAyEiwA5-PUSn7Fj7FIxc2gntFi_XQM-iLeVvw2wpiK_GHCTtWxB_JEbLZnDoW7ixoCHAAQAvD_BwE"
+      },
+      {
+        "name": "Peoplefinders🖥️",
+        "type": "url",
+        "url": "https://www.peoplefinders.com/email-lookup"
+      },
+      {
+        "name": "Infoga🗡️",
+        "type": "url",
+        "url": "https://github.com/m4ll0k/infoga"
+      },
+      {
+        "name": "Email-Extractor🗡️",
+        "type": "url",
+        "url": "https://emailextractorpro.com/download.html"
+      },
+      {
+        "name": "Aware-Online🗡️",
+        "type": "url",
+        "url": "https://www.aware-online.com/en/osint-tools/email-address-tools/"
+      },
+      {
+        "name": "Google-Dork🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=site%3Ahackerone.com+intext%3A%40gmail.com&oq=site%3Ahackerone.com+intext%3A%40gmail.com&aqs=chrome..69i58j69i57.1390j0j7&sourceid=chrome&ie=UTF-8"
+      },
+      {
+        "name": "Email-Osint-Tools📝",
+        "type": "url",
+        "url": "https://github.com/topics/email-osint"
+      }],
+      "name": "Email Search Reverse",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Email-Format🖥️",
+        "type": "url",
+        "url": "https://www.email-format.com/"
+      },
+      {
+        "name": "Xmatters🖥️",
+        "type": "url",
+        "url": "https://help.xmatters.com/ondemand/trial/valid_email_format.htm"
+      },
+      {
+        "name": "Email-Permutator🖥️",
+        "type": "url",
+        "url": "http://metricsparrow.com/toolkit/email-permutator/"
+      }
+      ],
+      "name": "Common Email Formats",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Neverbounce🖥️",
+        "type": "url",
+        "url": "https://neverbounce.com/email-verification"
+      },
+      {
+        "name": "Truemail🗡️",
+        "type": "url",
+        "url": "https://github.com/truemail-rb/truemail"
+      },
+      {
+        "name": "Email-Verifier🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/email-verifier/enchjidoodnbfkmidpfjlbdbjjlomfkp/related"
+      },
+      {
+        "name": "Email-Reputation🖥️",
+        "type": "url",
+        "url": "https://emailrep.io/"
+      },
+      {
+        "name": "Mailbox-Validator🖥️",
+        "type": "url",
+        "url": "https://www.mailboxvalidator.com/demo"
+      }],
+      "name": "Email Verification",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Have-I-been-Pwned🖥️",
+        "type": "url",
+        "url": "https://haveibeenpwned.com/"
+      },
+      {
+        "name": "DeHashed🖥️",
+        "type": "url",
+        "url": "https://dehashed.com/"
+      },
+      {
+        "name": "Leak-Lookup🖥️",
+        "type": "url",
+        "url": "https://leak-lookup.com/account/login"
+      },
+      {
+        "name": "Intelx🖥️",
+        "type": "url",
+        "url": "https://intelx.io/"
+      },
+      {
+        "name": "Email-Databreach-Tools📝",
+        "type": "url",
+        "url": "https://github.com/topics/haveibeenpwned"
+      }
+      ],
+      "name": "Breach Data",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Fake-Email-Generator🖥️",
+        "type": "url",
+        "url": "https://fakedetail.com/fake-mail-generator/gmail"
+      },
+      {
+        "name": "Temp-Mail🖥️",
+        "type": "url",
+        "url": "https://temp-mail.org/en/"
+      },
+      {
+        "name": "Mailnesia🖥️",
+        "type": "url",
+        "url": "https://mailnesia.com/"
+      },
+      {
+        "name": "Spoofbox🖥️",
+        "type": "url",
+        "url": "https://www.spoofbox.com/en/app/spoof-email"
+      },
+      {
+        "name": "Anonymous-Email-Sender🖥️",
+        "type": "url",
+        "url": "https://www.xwebtools.com/send-free-anonymous-email/"
+      },
+      {
+        "name": "Email-Spoofing🖥️",
+        "type": "url",
+        "url": "https://emkei.cz/"
+      }],
+      "name": "Fake-Spoofing",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Mxtoolbox🖥️",
+        "type": "url",
+        "url": "https://mxtoolbox.com/blacklists.aspx"
+      },
+      {
+        "name": "Blacklistlookup🖥️",
+        "type": "url",
+        "url": "https://www.debouncer.com/blacklistlookup"
+      },
+      {
+        "name": "Emil-Blacklist-Checker🖥️",
+        "type": "url",
+        "url": "https://dnschecker.org/ip-blacklist-checker.php"
+      }],
+      "name": "Email Blacklists",
+      "type": "folder"
+    }],
+    "name": "Email Address",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Whois-Domaintools🗡️",
+        "type": "url",
+        "url": "https://whois.domaintools.com/"
+      },
+      {
+        "name": "Reverse-Whois🖥️",
+        "type": "url",
+        "url": "https://www.reversewhois.io/"
+      },
+      {
+        "name": "Pentest-Tools🖥️",
+        "type": "url",
+        "url": "https://pentest-tools.com/utils/whois-lookup-online"
+      },
+      {
+        "name": "Hackertarget🖥️",
+        "type": "url",
+        "url": "https://hackertarget.com/whois-lookup/"
+      },
+      {
+        "name": "Yougetsignal🖥️",
+        "type": "url",
+        "url": "https://www.yougetsignal.com/tools/whois-lookup/"
+      },
+      {
+        "name": "Reverse-Whois2🖥️",
+        "type": "url",
+        "url": "https://viewdns.info/reversewhois/"
+      },
+      {
+        "name": "MarkMonitor🖥️",
+        "type": "url",
+        "url": "https://domains.markmonitor.com/whois/"
+      },
+      {
+        "name": "Easy-Whois🖥️",
+        "type": "url",
+        "url": "https://www.easywhois.com/"
+      },
+      {
+        "name": "Who-Is🖥️",
+        "type": "url",
+        "url": "https://who.is/"
+      },
+      {
+        "name": "Topics-whois-lookup🗡️",
+        "type": "url",
+        "url": "https://github.com/topics/whois-lookup"
+      },
+      {
+        "name": "Whois-Extension🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon"
+      }],
+      "name": "Whois Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Subfinder🗡️",
+        "type": "url",
+        "url": "https://github.com/projectdiscovery/subfinder"
+      },
+      {
+        "name": "AMASS🗡️",
+        "type": "url",
+        "url": "https://github.com/owasp-amass/amass"
+      },
+      {
+        "name": "Google-Dork🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=site%3Agoogle.com+-workspace&ei=DiV7ZPPXCLjNkPIPhKqneA&ved=0ahUKEwjzlqzRgKf_AhW4JkQIHQTVCQ8Q4dUDCBA&oq=site%3Agoogle.com+-workspace&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDEoECEEYAVAAWABgy7kBaANwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz-serp"
+      },
+      {
+        "name": "Best-Subdomain-Scanner📝",
+        "type": "url",
+        "url": "https://securitytrails.com/blog/subdomain-scanner-find-subdomains"
+      },
+      {
+        "name": "Pentest-Tools🖥️",
+        "type": "url",
+        "url": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain"
+      },
+      {
+        "name": "Gobuster🗡️",
+        "type": "url",
+        "url": "https://github.com/OJ/gobuster"
+      },
+      {
+        "name": "Sublist3r🗡️",
+        "type": "url",
+        "url": "https://github.com/aboul3la/Sublist3r"
+      },
+      {
+        "name": "SecLists-Subdomains-Wordlist🗡️",
+        "type": "url",
+        "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
+      },
+      {
+        "name": "Nmmapper🖥️",
+        "type": "url",
+        "url": "https://www.nmmapper.com/sys/tools/subdomainfinder/"
+      },
+      {
+        "name": "C99🖥️",
+        "type": "url",
+        "url": "https://subdomainfinder.c99.nl/"
+      },
+      {
+        "name": "Hacker-Target🖥️",
+        "type": "url",
+        "url": "https://hackertarget.com/find-dns-host-records/"
+      },
+      {
+        "name": "Netcraft🖥️",
+        "type": "url",
+        "url": "https://searchdns.netcraft.com/"
+      }],
+      "name": "Subdomains",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Shodan-Extensions🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap"
+      },
+      {
+        "name": "Urlscan🖥️",
+        "type": "url",
+        "url": "https://urlscan.io/search/#*"
+      },
+      {
+        "name": "Censys🖥️",
+        "type": "url",
+        "url": "https://search.censys.io/"
+      },
+      {
+        "name": "Project-Discovery🗡️",
+        "type": "url",
+        "url": "https://projectdiscovery.io/#/"
+      },
+      {
+        "name": "Dns-Dumpster🖥️",
+        "type": "url",
+        "url": "https://dnsdumpster.com/"
+      },
+      {
+        "name": "Wappalyzer🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+      },
+      {
+        "name": "Maltego🖥️",
+        "type": "url",
+        "url": "https://www.maltego.com/downloads//"
+      },
+      {
+        "name": "Owasp-Zap🗡️",
+        "type": "url",
+        "url": "https://www.zaproxy.org/"
+      },
+      {
+        "name": "Internet-Archive🖥️",
+        "type": "url",
+        "url": "https://archive.org/web/"
+      },
+      {
+        "name": "Http-Enumeration📝",
+        "type": "url",
+        "url": "https://nmap.org/nsedoc/scripts/http-enum.html"
+      },
+      {
+        "name": "Reconng-Tutorial📝",
+        "type": "url",
+        "url": "https://hackertarget.com/recon-ng-tutorial/"
+      }],
+      "name": "Information Gathering ",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Ctsearch🖥️",
+        "type": "url",
+        "url": "https://ui.ctsearch.entrust.com/ui/ctsearchui"
+      },
+      {
+        "name": "Censys🖥️",
+        "type": "url",
+        "url": "https://censys.io/"
+      },
+      {
+        "name": "Crt🖥️",
+        "type": "url",
+        "url": "https://crt.sh/?"
+      },
+      {
+        "name": "ssllabs🖥️",
+        "type": "url",
+        "url": "https://www.ssllabs.com/ssltest/"
+      },
+      {
+        "name": "SSL-TLS-Scanner🖥️",
+        "type": "url",
+        "url": "https://hackertarget.com/ssl-check/"
+      }],
+      "name": "Certificate Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Trickster📝",
+        "type": "url",
+        "url": "https://www.trickster.dev/post/passive-dns-recon-techniques/"
+      },
+      {
+        "name": "Mnemonic🖥️",
+        "type": "url",
+        "url": "http://passivedns.mnemonic.no/"
+      },
+      {
+        "name": "DNS-History🖥️",
+        "type": "url",
+        "url": "http://dnshistory.org/"
+      },
+      {
+        "name": "Dns-Monster🖥️",
+        "type": "url",
+        "url": "https://github.com/mosajjal/dnsmonster"
+      },
+      {
+        "name": "DNS-Dumpster🖥️",
+        "type": "url",
+        "url": "https://dnsdumpster.com/"
+      }
+      ],
+      "name": "Passive DNS",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "URL-Void🖥️",
+        "type": "url",
+        "url": "http://www.urlvoid.com/"
+      },
+      {
+        "name": "Forti-Guard🖥️",
+        "type": "url",
+        "url": "http://fortiguard.com/iprep"
+      },
+      {
+        "name": "Talos-intelligence🖥️",
+        "type": "url",
+        "url": "https://talosintelligence.com/reputation_center/"
+      },
+      {
+        "name": "Malware-Domain-List🖥️",
+        "type": "url",
+        "url": "https://help.fortinet.com/fsiem/5-1-1/Online-Help/HTML5_Help/Malware_domains.htm"
+      },
+      {
+        "name": "Check-Phish🖥️",
+        "type": "url",
+        "url": "https://checkphish.ai/"
+      },
+      {
+        "name": "Phish-Tank🖥️",
+        "type": "url",
+        "url": "https://phishtank.org/"
+      },
+      {
+        "name": "Url-Scan🖥️",
+        "type": "url",
+        "url": "https://www.virustotal.com/gui/home/url"
+      }],
+      "name": "Reputation",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Whatis-Myip-Address🖥️",
+        "type": "url",
+        "url": "https://whatismyipaddress.com/blacklist-check"
+      },
+      {
+        "name": "Dns-Checker🖥️",
+        "type": "url",
+        "url": "https://dnschecker.org/ip-blacklist-checker.php"
+      },
+      {
+        "name": "Black-Web🗡️",
+        "type": "url",
+        "url": "https://github.com/maravento/blackweb"
+      },
+      {
+        "name": "Site24x7🖥️",
+        "type": "url",
+        "url": "https://www.site24x7.com/tools/blacklist-check.html"
+      },
+      {
+        "name": "Site-Checker🖥️",
+        "type": "url",
+        "url": "https://sitechecker.pro/blacklist-checker/"
+      }],
+      "name": "Domain Blacklists",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Dns-Twist🗡️",
+        "type": "url",
+        "url": "https://github.com/elceef/dnstwist"
+      },
+      {
+        "name": "Url-Crazy📝",
+        "type": "url",
+        "url": "http://www.morningstarsecurity.com/research/urlcrazy"
+      },
+      {
+        "name": "Typo-Generator🖥️",
+        "type": "url",
+        "url": "https://www.internetmarketingninjas.com/tools/domain-typo-generator/"
+      },
+      {
+        "name": "Dns-Twister🖥️",
+        "type": "url",
+        "url": "https://dnstwister.report/"
+      }],
+      "name": "Typosquatting",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "BuiltWith-Extensions🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn"
+      },
+      {
+        "name": "Wappalyzer-Extensions🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+      },
+      {
+        "name": "Netcraft🖥️",
+        "type": "url",
+        "url": "http://toolbar.netcraft.com/site_report?url=undefined#last_reboot"
+      },
+      {
+        "name": "Security-Headers🖥️",
+        "type": "url",
+        "url": "https://securityheaders.io/"
+      },
+      {
+        "name": "Clear-WebStats🖥️",
+        "type": "url",
+        "url": "https://www.clearwebstats.com/"
+      },
+      {
+        "name": "Similar-Web🖥️",
+        "type": "url",
+        "url": "https://www.similarweb.com/"
+      },
+      {
+        "name": "Siteliner🖥️",
+        "type": "url",
+        "url": "http://siteliner.com/"
+      },
+      {
+        "name": "WhatWeb🗡️",
+        "type": "url",
+        "url": "https://github.com/urbanadventurer/WhatWeb"
+      }],
+      "name": "Analytics",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Check-ShortURL🖥️",
+        "type": "url",
+        "url": "http://checkshorturl.com/"
+      },
+      {
+        "name": "URL-Expander🖥️",
+        "type": "url",
+        "url": "http://urlex.org/"
+      },
+      {
+        "name": "Short-Url🖥️",
+        "type": "url",
+        "url": "https://www.shorturl.at/"
+      },
+      {
+        "name": "Url-Shortener🖥️",
+        "type": "url",
+        "url": "https://free-url-shortener.rb.gy/"
+      }],
+      "name": "Url-Shortener-Expander",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Visual-Ping🖥️",
+        "type": "url",
+        "url": "http://visualping.io/"
+      },
+      {
+        "name": "Url-Watch🖥️",
+        "type": "url",
+        "url": "https://github.com/thp/urlwatch"
+      },
+      {
+        "name": "DistillWebMonitor-Extensions🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge"
+      }],
+      "name": "Change Detection",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Google-Trends🖥️",
+        "type": "url",
+        "url": "https://www.google.com/trends/"
+      },
+      {
+        "name": "One-Million-Tweetmap🖥️",
+        "type": "url",
+        "url": "https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1"
+      }],
+      "name": "Trends-Analysis",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "DNS-SEC-Analyzer🖥️",
+        "type": "url",
+        "url": "http://dnssec-debugger.verisignlabs.com/"
+      },
+      {
+        "name": "Dns-Inspect🖥️",
+        "type": "url",
+        "url": "https://dnsinspect.com/"
+      },
+      {
+        "name": "DNS-Viz🖥️",
+        "type": "url",
+        "url": "http://dnsviz.net/"
+      }],
+      "name": "DNS-SEC",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Public-Buckets🖥️",
+        "type": "url",
+        "url": "https://buckets.grayhatwarfare.com/"
+      },
+      {
+        "name": "Geekflare📝",
+        "type": "url",
+        "url": "https://geekflare.com/web-scraping-tools/"
+      },
+      {
+        "name": "Cloud-Scraper🗡️",
+        "type": "url",
+        "url": "https://github.com/jordanpotti/cloudscraper"
+      }],
+      "name": "Cloud Resources",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "Sn1per🗡️",
+          "type": "url",
+          "url": "https://github.com/1N3/Sn1per"
+        },
+        {
+          "name": "Zaproxy🗡️",
+          "type": "url",
+          "url": "https://www.zaproxy.org/download/"
+        },
+        {
+          "name": "Nuclei🗡️",
+          "type": "url",
+          "url": "https://github.com/projectdiscovery/nuclei"
+        },
+        {
+          "name": "censys🗡️",
+          "type": "url",
+          "url": "https://search.censys.io/"
+        },
+        {
+          "name": "Gobuster🗡️",
+          "type": "url",
+          "url": "https://github.com/OJ/gobuster"
+        },
+        {
+          "name": "Admin-Finder🖥️",
+          "type": "url",
+          "url": "https://tools.prinsh.com/home/?tools=adfind"
+        },
+        {
+          "name": "Vulners-Extensions🤖",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd"
+        }],
+        "name": "Scanners",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Check-Host🖥️",
+          "type": "url",
+          "url": "https://check-host.net/?lang=en"
+        },
+        {
+          "name": "Wayback-Machine🖥️",
+          "type": "url",
+          "url": "https://archive.org/web/"
+        },
+        {
+          "name": "Zone-H🖥️",
+          "type": "url",
+          "url": "http://zone-h.org/archive"
+        }],
+        "name": "Disclosure Sites",
+        "type": "folder"
+      }],
+      "name": "Vulnerabilities",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Burp-Suite🗡️",
+        "type": "url",
+        "url": "https://portswigger.net/burp/"
+      },
+      {
+        "name": "Hackbar-Extensions🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc"
+      },
+      {
+        "name": "Nmap📝",
+        "type": "url",
+        "url": "https://geekflare.com/nmap-vulnerability-scan/"
+      },
+      {
+        "name": "Dir-Search🗡️",
+        "type": "url",
+        "url": "https://github.com/maurosoria/dirsearch"
+      },
+      {
+        "name": "PayloadsAllTheThings📝",
+        "type": "url",
+        "url": "https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/"
+      },
+      {
+        "name": "HackTricks📝",
+        "type": "url",
+        "url": "https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology"
+      },
+      {
+        "name": "Project-Discovery📝",
+        "type": "url",
+        "url": "https://github.com/projectdiscovery"
+      },
+      {
+        "name": "Exploit-DB📝",
+        "type": "url",
+        "url": "https://www.exploit-db.com/"
+      },
+      {
+        "name": "Sqlmap🗡️",
+        "type": "url",
+        "url": "https://github.com/sqlmapproject/sqlmap"
+      },
+      {
+        "name": "Commix🗡️",
+        "type": "url",
+        "url": "https://github.com/commixproject/commix"
+      },
+      {
+        "name": "XSS-Trike🗡️",
+        "type": "url",
+        "url": "https://github.com/s0md3v/XSStrike"
+      },
+      {
+        "name": "Admin-Page-Finder📝",
+        "type": "url",
+        "url": "https://github.com/topics/admin-page-finder"
+      }],
+      "name": "Tools",
+      "type": "folder"
+    }],
+    "name": "Domain Name",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Ip-Location🖥️",
+        "type": "url",
+        "url": "https://www.iplocation.net/"
+      },
+      {
+        "name": "Tools-Keycdn🖥️",
+        "type": "url",
+        "url": "https://tools.keycdn.com/geo"
+      },
+      {
+        "name": "Ip-Location🖥️",
+        "type": "url",
+        "url": "https://iplocation.com/"
+      },
+      {
+        "name": "IP-Fingerprints🖥️",
+        "type": "url",
+        "url": "http://www.ipfingerprints.com/"
+      },
+      {
+        "name": "DB-IP🖥️",
+        "type": "url",
+        "url": "https://db-ip.com/"
+      },
+      {
+        "name": "Ip-Tracker-Online🖥️",
+        "type": "url",
+        "url": "https://www.iptrackeronline.com/"
+      },
+      {
+        "name": "Ip-Api📝",
+        "type": "url",
+        "url": "https://ip-api.com/docs/"
+      }],
+      "name": "Ip Geolocation",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Shodan🖥️",
+        "type": "url",
+        "url": "https://www.shodan.io/"
+      },
+      {
+        "name": "Nessus🗡️",
+        "type": "url",
+        "url": "https://www.tenable.com/lp/campaigns/22/try-nessus-multiprdct/free-trial/?utm_campaign=gs-{11596512905}-{118315027412}-{537515852123}_00026642_fy23&utm_promoter=tenable-hv-brand-00026642&utm_source=google&utm_term=nessus%20vulnerability%20scanner%20download&utm_medium=cpc&utm_geo=emea&gclid=CjwKCAjwm4ukBhAuEiwA0zQxkzLJLH-UXugDQqBZI_Gq7kM0PhRhKiJ1jxbdl_sHNhwsjwkj_ZfZMRoCi_IQAvD_BwE"
+      },
+      {
+        "name": "Zanti🗡️",
+        "type": "url",
+        "url": "https://www.zimperium.com/zanti-mobile-penetration-testing/"
+      },
+      {
+        "name": "Netdiscover🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks."
+      },
+      {
+        "name": "Arp-Scan🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/arp-scan/"
+      },
+      {
+        "name": "Angry-ip🗡️",
+        "type": "url",
+        "url": "https://angryip.org/"
+      },
+      {
+        "name": "Advanced-Ip-Scanner🗡️",
+        "type": "url",
+        "url": "https://www.advanced-ip-scanner.com/"
+      },
+      {
+        "name": "Pentest-Tools🖥️",
+        "type": "url",
+        "url": "https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap"
+      },
+      {
+        "name": "ZoomEye🖥️",
+        "type": "url",
+        "url": "https://www.zoomeye.org/"
+      },
+      {
+        "name": "Nmap-Cheatsheet🖥️",
+        "type": "url",
+        "url": "https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/"
+      },
+      {
+        "name": "UrlScan🖥️",
+        "type": "url",
+        "url": "https://urlscan.io/search/#*"
+      },
+      {
+        "name": "Scanless🗡️",
+        "type": "url",
+        "url": "https://github.com/vesche/scanless"
+      },
+      {
+        "name": "Masscan🗡️",
+        "type": "url",
+        "url": "https://github.com/robertdavidgraham/masscan"
+      }],
+      "name": "Host Port Discovery Scanning",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Ip-Calculator🖥️",
+        "type": "url",
+        "url": "https://www.calculator.net/ip-subnet-calculator.html"
+      },
+      {
+        "name": "Info-By-Ip🖥️",
+        "type": "url",
+        "url": "https://www.infobyip.com/"
+      },
+      {
+        "name": "Ipv4-to-ipv6🖥️",
+        "type": "url",
+        "url": "https://iplocation.io/ipv4-to-ipv6"
+      },
+      {
+        "name": "Reverse-DNS🖥️",
+        "type": "url",
+        "url": "https://hackertarget.com/reverse-dns-lookup/"
+      }],
+      "name": "IPv4",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Ipv6-Info🖥️",
+        "type": "url",
+        "url": "https://dnschecker.org/ipv6-whois-lookup.php"
+      },
+      {
+        "name": "Test-Ipv6🖥️",
+        "type": "url",
+        "url": "https://test-ipv6.com/"
+      },
+      {
+        "name": "Ipv6-Calculator🖥️",
+        "type": "url",
+        "url": "http://www.gestioip.net/cgi-bin/subnet_calculator.cgi"
+      }],
+      "name": "IPv6",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Bgp-Ranking🖥️",
+        "type": "url",
+        "url": "http://bgpranking.circl.lu/"
+      },
+      {
+        "name": "Bgp-Tools🖥️",
+        "type": "url",
+        "url": "https://bgp.tools/"
+      },
+      {
+        "name": "Bgp-View🖥️",
+        "type": "url",
+        "url": "https://bgpview.io/"
+      }],
+      "name": "BGP",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "IP-Void🖥️",
+        "type": "url",
+        "url": "http://www.ipvoid.com/"
+      },
+      {
+        "name": "IP-Leak🖥️",
+        "type": "url",
+        "url": "https://ipleak.net/"
+      },
+      {
+        "name": "Criminal-IP🖥️",
+        "type": "url",
+        "url": "https://www.criminalip.io/en"
+      }],
+      "name": "Reputation",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Blacklist-Check🖥️",
+        "type": "url",
+        "url": "https://whatismyipaddress.com/blacklist-check"
+      },
+      {
+        "name": "Mx-Toolbox🖥️",
+        "type": "url",
+        "url": "https://mxtoolbox.com/blacklists.aspx"
+      },
+      {
+        "name": "Blacklist-Tools🖥️",
+        "type": "url",
+        "url": "https://quickemailverification.com/tools/blacklist-checker"
+      }],
+      "name": "Blacklists",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Bing-Dork🔎",
+        "type": "url",
+        "url": "http://www.bing.com/search?q=ip%3A8.8.8.8"
+      },
+      {
+        "name": "Domain-tools🖥️",
+        "type": "url",
+        "url": "https://reverseip.domaintools.com/"
+      },
+      {
+        "name": "View-dns🖥️",
+        "type": "url",
+        "url": "https://viewdns.info/reverseip/"
+      },
+      {
+        "name": "Ad-Results🖥️",
+        "type": "url",
+        "url": "https://adresults.com/tools/reverse-ip-lookup"
+      }],
+      "name": "Reverse-Ip",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Bypass-cloudflare📝",
+        "type": "url",
+        "url": "https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/"
+      },
+      {
+        "name": "Hacktricks📝",
+        "type": "url",
+        "url": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/uncovering-cloudflare"
+      },
+      {
+        "name": "Bypass-Waf-cheat-sheet📝",
+        "type": "url",
+        "url": "https://hacken.io/discover/how-to-bypass-waf-hackenproof-cheat-sheet/"
+      },
+      {
+        "name": "Bypass-Waf📝",
+        "type": "url",
+        "url": "https://dutt786.medium.com/how-i-was-able-to-bypass-cloudflare-waf-3b30700f6c7a"
+      }],
+      "name": "CDN-WAF-Bypass",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "WiGLE:Wireless-Network-Mapper🖥️",
+        "type": "url",
+        "url": "https://wigle.net/"
+      },
+      {
+        "name": "Kismet🗡️",
+        "type": "url",
+        "url": "https://www.kismetwireless.net/download/"
+      },
+      {
+        "name": "Wifi-map🖥️",
+        "type": "url",
+        "url": "https://www.wifimap.io/"
+      },
+      {
+        "name": "Router-Exsploit🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/routersploit/"
+      },
+      {
+        "name": "Router-pwn📝",
+        "type": "url",
+        "url": "http://routerpwn.com/"
+      },
+      {
+        "name": "Router-defaultpass📝",
+        "type": "url",
+        "url": "https://www.softwaretestinghelp.com/default-router-username-and-password-list/"
+      },
+      {
+        "name": "SDR-Attack📝",
+        "type": "url",
+        "url": "https://versprite.com/vs-labs/sdr-attack-smart-car/"
+      },
+      {
+        "name": "OpenCellid:Database-of-Cell-Towers🖥️",
+        "type": "url",
+        "url": "https://opencellid.org/"
+      }],
+      "name": "Wireless Network Info",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Wireshark🗡️",
+        "type": "url",
+        "url": "https://www.wireshark.org/download.html"
+      },
+      {
+        "name": "Tcpdump-Cheat-Sheet📝",
+        "type": "url",
+        "url": "https://www.comparitech.com/net-admin/tcpdump-cheat-sheet/"
+      },
+      {
+        "name": "Python-Scapy📝",
+        "type": "url",
+        "url": "https://cylab.be/blog/245/network-traffic-analysis-with-python-scapy-and-some-machine-learning?accept-cookies=1"
+      },
+      {
+        "name": "Packet_Sniffing🗡️",
+        "type": "url",
+        "url": "https://www.paessler.com/packet_sniffing?gclid=CjwKCAjwm4ukBhAuEiwA0zQxk07s1CawBZWr_izRHo6MdQXa5YB0ecQX1v7gDk9u8YqiTzZdFrMN-BoC8W8QAvD_BwE"
+      }],
+      "name": "Packet-Analyzer",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "ip-Log🖥️",
+          "type": "url",
+          "url": "https://www.ps3cfw.com/iplog.php"
+        },
+        {
+          "name": "Grabify🖥️",
+          "type": "url",
+          "url": "https://grabify.link"
+        },
+        {
+          "name": "IP-Logger🖥️",
+          "type": "url",
+          "url": "https://iplogger.com/"
+        },
+        {
+          "name": "Tracking-Pixel📝",
+          "type": "url",
+          "url": "https://en.ryte.com/wiki/Tracking_Pixel"
+        }
+      ],
+      "name": "IP Loggers",
+      "type": "folder"
+    }],
+    "name": "Network",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "Google-Images🖥️",
+          "type": "url",
+          "url": "https://images.google.com/?gws_rd=ssl"
+        },
+        {
+          "name": "Bing-Images🖥️",
+          "type": "url",
+          "url": "https://www.bing.com/?scope=web&cc=NL&FORM=HDRSC1"
+        },
+        {
+          "name": "Yandex-Images🖥️",
+          "type": "url",
+          "url": "https://yandex.ru/images?rdrnd=561623&lr=213&redircnt=1686334004.1"
+        },
+        {
+          "name": "TinEye-Reverse-Image-Search🖥️",
+          "type": "url",
+          "url": "http://tineye.com/"
+        },
+        {
+          "name": "Baidu-Images🖥️",
+          "type": "url",
+          "url": "http://shitu.baidu.com/"
+        },
+        {
+          "name": "Word-to-image🖥️",
+          "type": "url",
+          "url": "https://imgur.com/search"
+        },
+        {
+          "name": "Pic2map🖥️",
+          "type": "url",
+          "url": "https://www.pic2map.com/"
+        },
+        {
+          "name": "Whereisthepicture🖥️",
+          "type": "url",
+          "url": "https://whereisthepicture.com/"
+        },
+        {
+          "name": "Geoimgr🖥️",
+          "type": "url",
+          "url": "https://www.geoimgr.com/"
+        },
+        {
+          "name": "carnet🖥️",
+          "type": "url",
+          "url": "https://carnet.ai/"
+        }],
+        "name": "Reverse-Image",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Profile-Analyzer🖥️",
+          "type": "url",
+          "url": "https://www.pathsocial.com/free-instagram-tools/instagram-profile-analyzer/"
+        },
+        {
+          "name": "Image-based-osint🖥️",
+          "type": "url",
+          "url": "https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques"
+        },
+        {
+          "name": "Profile-Downloader🖥️",
+          "type": "url",
+          "url": "https://www.save-free.com/profile-downloader/"
+        },
+        {
+          "name": "Image-analysis🖥️",
+          "type": "url",
+          "url": "https://photoeducation.weebly.com/image-analysis1.html"
+        }],
+        "name": "Instagram",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Face-Check-Online🖥️",
+          "type": "url",
+          "url": "https://facecheck.id/"
+        },
+        {
+          "name": "Reverse-Image-Face-Search🖥️",
+          "type": "url",
+          "url": "https://pimeyes.com/en"
+        },
+        {
+          "name": "Face-Swap🖥️",
+          "type": "url",
+          "url": "https://www.deepswap.ai/"
+        },
+        {
+          "name": "Face-Generator🖥️",
+          "type": "url",
+          "url": "https://thispersondoesnotexist.com/"
+        },
+        {
+          "name": "Deepfake🖥️",
+          "type": "url",
+          "url": "https://hoodem.com/product/create-your-deepfake/"
+        },
+        {
+          "name": "Face-analyzer-pretty🖥️",
+          "type": "url",
+          "url": "https://pinkmirror.com/photo/add"
+        },
+        {
+          "name": "Face-emotions-detection🖥️",
+          "type": "url",
+          "url": "https://www.noldus.com/facereader/measure-your-emotions"
+        }],
+        "name": "Face",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Exif-Tool🗡️",
+          "type": "url",
+          "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
+        },
+        {
+          "name": "Exif-Viewer-Pro🤖",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm"
+        },
+        {
+          "name": "Exifdata🖥️",
+          "type": "url",
+          "url": "https://exifdata.com/"
+        },
+        {
+          "name": "Metadata2go🖥️",
+          "type": "url",
+          "url": "https://www.metadata2go.com/view-metadata"
+        },
+        {
+          "name": "jimpl🖥️",
+          "type": "url",
+          "url": "https://jimpl.com/"
+        },
+        {
+          "name": "Exiftool-Kali🗡️",
+          "type": "url",
+          "url": "https://www.kali.org/tools/libimage-exiftool-perl/"
+        },
+        {
+          "name": "Foca🗡️",
+          "type": "url",
+          "url": "https://foca.en.softonic.com/"
+        }],
+        "name": "Metadata",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Image-Forensic🖥️",
+          "type": "url",
+          "url": "https://www.imageforensic.org/"
+        },
+        {
+          "name": "Fakeimage-Detector🖥️",
+          "type": "url",
+          "url": "https://www.fakeimagedetector.com/"
+        },
+        {
+          "name": "Forensicsally🖥️",
+          "type": "url",
+          "url": "https://29a.ch/photo-forensics/#forensic-magnifier"
+        },
+        {
+          "name": "Sleuthkit🗡️",
+          "type": "url",
+          "url": "https://www.sleuthkit.org/sleuthkit/download.php"
+        },
+        {
+          "name": "Camera-Trace🖥️",
+          "type": "url",
+          "url": "https://christovitohidajat.medium.com/digital-image-forensics-ways-to-investigate-images-reliability-47430bf90e9a"
+        }],
+        "name": "Forensics",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "i2OCR🖥️",
+          "type": "url",
+          "url": "http://www.i2ocr.com/"
+        },
+        {
+          "name": "New-OCR🖥️",
+          "type": "url",
+          "url": "https://www.newocr.com/"
+        },
+        {
+          "name": "Online-OCR🖥️",
+          "type": "url",
+          "url": "http://www.onlineocr.net/"
+        }],
+        "name": "OCR",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Geolocation-OSINT📝",
+          "type": "url",
+          "url": "https://github.com/cqcore/Geolocation-OSINT/blob/main/README.md"
+        },
+        {
+          "name": "Aware-Online📝",
+          "type": "url",
+          "url": "https://www.aware-online.com/en/osint-tools/geolocation-tools/"
+        },
+        {
+          "name": "Creepy🗡️",
+          "type": "url",
+          "url": "http://www.geocreepy.com/"
+        }],
+        "name": "Tools",
+        "type": "folder"
+      }],
+      "name": "Images",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "Google-Videos🖥️",
+          "type": "url",
+          "url": "https://www.google.com/videohp?gws_rd=ssl"
+        },
+        {
+          "name": "Bing-Videos🖥️",
+          "type": "url",
+          "url": "http://www.bing.com/videos"
+        },
+        {
+          "name": "Vimeo-Search🖥️",
+          "type": "url",
+          "url": "https://vimeo.com/search?"
+        },
+        {
+          "name": "Internet-Archive-Videos🖥️",
+          "type": "url",
+          "url": "https://archive.org/search"
+        },
+        {
+          "name": "Reverse-search-video🖥️",
+          "type": "url",
+          "url": "https://berify.com/"
+        },
+        {
+          "name": "Dogpile-Web-Search🖥️",
+          "type": "url",
+          "url": "https://www.dogpile.com/?qc=video&sc=2tcJZ7HFNXrw20"
+        },
+        {
+          "name": "Geo-youtube🖥️",
+          "type": "url",
+          "url": "https://mattw.io/youtube-geofind/location"
+        },
+        {
+          "name": "Live-Leak🖥️",
+          "type": "url",
+          "url": "https://www.liveleak.com/"
+        },
+        {
+          "name": "Metatube🖥️",
+          "type": "url",
+          "url": "http://www.metatube.com/"
+        },
+        {
+          "name": "Yandex-Video-Search🖥️",
+          "type": "url",
+          "url": "https://yandex.com/video/search"
+        }],
+        "name": "Search",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Youtube-Video-Downloader🖥️",
+          "type": "url",
+          "url": "https://en.savefrom.net/1-youtube-video-downloader-511Hb/"
+        },
+        {
+          "name": "Youtube-Analyzer🖥️",
+          "type": "url",
+          "url": "https://socialblade.com/youtube/"
+        },
+        {
+          "name": "Ai-youtube-video-analysis🖥️",
+          "type": "url",
+          "url": "https://tubeast.com/ai-youtube-video-analysis"
+        },
+        {
+          "name": "Video-analysis-software🖥️",
+          "type": "url",
+          "url": "https://www.kinovea.org/"
+        },
+        {
+          "name": "Frame-by-Frame-for-YouTube🖥️",
+          "type": "url",
+          "url": "http://www.watchframebyframe.com/"
+        },
+        {
+          "name": "TubeChop🖥️",
+          "type": "url",
+          "url": "http://www.tubechop.com/"
+        },
+        {
+          "name": "Hooktube🖥️",
+          "type": "url",
+          "url": "https://hooktube.com/"
+        },
+        {
+          "name": "Video-metadata-viewer🖥️",
+          "type": "url",
+          "url": "https://exifmeta.com/"
+        }],
+        "name": "Analyze / Record",
+        "type": "folder"
+      }],
+      "name": "Videos",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "SeeAllTheThings🖥️",
+        "type": "url",
+        "url": "https://github.com/baywolf88/seeallthethings"
+      },
+      {
+        "name": "Insecam🖥️",
+        "type": "url",
+        "url": "http://insecam.org/"
+      },
+      {
+        "name": "Camera-hacking🗡️",
+        "type": "url",
+        "url": "https://github.com/techchipnet/CamPhish"
+      },
+      {
+        "name": "camstreamer🖥️",
+        "type": "url",
+        "url": "https://camstreamer.com/live/search?fulltext=iran"
+      },
+      {
+        "name": "Find-vulnerable-webcams📝",
+        "type": "url",
+        "url": "https://null-byte.wonderhowto.com/how-to/find-vulnerable-webcams-across-globe-using-shodan-0154830/"
+      },
+      {
+        "name": "EarthCam🖥️",
+        "type": "url",
+        "url": "http://www.earthcam.com/"
+      }],
+      "name": "Webcams",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "children": [
+          {
+            "name": "GoogleDocs🔎",
+            "type": "url",
+            "url": "https://www.google.com/?q=site:docs.google.com+%3Csearchterm%3E"
+          },
+          {
+            "name": "GoogleDrive🔎",
+            "type": "url",
+            "url": "https://www.google.com/?q=site:drive.google.com+%3Csearchterm%3E"
+          },
+          {
+            "name": "Dropbox🔎",
+            "type": "url",
+            "url": "https://www.google.com/?q=site:dl.dropbox.com+%3Csearchterm%3E"
+          },
+          {
+            "name": "Amazon-AWS🔎",
+            "type": "url",
+            "url": "https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E"
+          },
+          {
+            "name": "OneDrive🔎",
+            "type": "url",
+            "url": "https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E"
+          },
+          {
+            "name": "Cryptome🔎",
+            "type": "url",
+            "url": "https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E"
+          }],
+          "name": "Common GoogleDorks",
+          "type": "folder"
+        },
+        {
+          "name": "Docfetcher🖥️",
+          "type": "url",
+          "url": "https://docfetcher.sourceforge.net/en/index.html"
+        },
+        {
+          "name": "WikiLeaks-Search🖥️",
+          "type": "url",
+          "url": "https://search.wikileaks.org/advanced"
+        },
+        {
+          "name": "Document-search-engines📝",
+          "type": "url",
+          "url": "https://medevel.com/10-open-source-free-self-hosted-document-search-engines/"
+        },
+        {
+          "name": "Regex-generator-ai📝",
+          "type": "url",
+          "url": "https://codepal.ai/regex-generator"
+        },
+        {
+          "name": "Document-metadata🖥️",
+          "type": "url",
+          "url": "https://www.metadata2go.com/view-metadata#"
+        }
+        ],
+        "name": "Search",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Pastebin-Trends🖥️",
+          "type": "url",
+          "url": "http://pastebin.com/trends"
+        },
+        {
+          "name": "Just-Paste-It🖥️",
+          "type": "url",
+          "url": "https://justpaste.it/"
+        },
+        {
+          "name": "Pastebin-OSINT-Harvester🗡️",
+          "type": "url",
+          "url": "https://github.com/needmorecowbell/sniff-paste"
+        }],
+        "name": "Paste Sites",
+        "type": "folder"
+      }],
+      "name": "Documents",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Youtube-Converter🖥️",
+        "type": "url",
+        "url": "https://ytmp3.cc/3271/"
+      },
+      {
+        "name": "Doc-Converter🖥️",
+        "type": "url",
+        "url": "https://cloudconvert.com/doc-converter"
+      },
+      {
+        "name": "Image-Resizer🖥️",
+        "type": "url",
+        "url": "https://imageresizer.com/"
+      },
+      {
+        "name": "Vocal-remover🖥️",
+        "type": "url",
+        "url": "https://vocalremover.org/"
+      },
+      {
+        "name": "Image-online-convert🖥️",
+        "type": "url",
+        "url": "https://image.online-convert.com/png-converter"
+      }],
+      "name": "Converter File",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "What-The-Font🖥️",
+        "type": "url",
+        "url": "https://www.myfonts.com/WhatTheFont/"
+      },
+      {
+        "name": "Font-Squirrel🖥️",
+        "type": "url",
+        "url": "https://www.fontsquirrel.com/matcherator"
+      },
+      {
+        "name": "IdentiFont🖥️",
+        "type": "url",
+        "url": "http://www.identifont.com/index.html"
+      },
+      {
+        "name": "Font-Spring🖥️",
+        "type": "url",
+        "url": "https://www.fontspring.com/matcherator"
+      },
+      {
+        "name": "What-Font-Is🖥️",
+        "type": "url",
+        "url": "https://www.whatfontis.com/"
+      }],
+      "name": "Fonts",
+      "type": "folder"
+    }],
+    "name": "Images / Videos / Docs",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "ّّFacebook-Search-Engine🖥️",
+          "type": "url",
+          "url": "https://www.social-searcher.com/facebook-search/"
+        },
+        {
+          "name": "Advanced-Search🖥️",
+          "type": "url",
+          "url": "https://www.alphr.com/how-to-do-an-advanced-search-on-facebook/"
+        },
+        {
+          "name": "Recover-FB-Account🖥️",
+          "type": "url",
+          "url": "https://www.facebook.com/login/identify?ctx=recover"
+        },
+        {
+          "name": "Facebook-Photos-by-ID🖥️",
+          "type": "url",
+          "url": "https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE"
+        },
+        {
+          "name": "FB-People-Directory🖥️",
+          "type": "url",
+          "url": "https://www.facebook.com/directory/people/"
+        },
+        {
+          "name": "FB-Lookup-ID🖥️",
+          "type": "url",
+          "url": "https://lookup-id.com/"
+        },
+        {
+          "name": "FB-Identify🖥️",
+          "type": "url",
+          "url": "https://www.facebook.com/login/identify"
+        },
+        {
+          "name": "Search-is-Back🖥️",
+          "type": "url",
+          "url": "https://searchisback.com/"
+        },
+        {
+          "name": "Osint-Facebook-Tools📝",
+          "type": "url",
+          "url": "https://securitytrails.com/blog/osint-facebook-tools"
+        }],
+        "name": "Search",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Fb-sleep-stats🗡️",
+          "type": "url",
+          "url": "https://github.com/sqren/fb-sleep-stats"
+        },
+        {
+          "name": "Facebook-Scanner🖥️",
+          "type": "url",
+          "url": "https://www.spoofbox.com/en/tool/stalk-scan"
+        }],
+        "name": "Analytics",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Facebook-Toolkit🗡️",
+          "type": "url",
+          "url": "https://github.com/warifp/FacebookToolkit"
+        },
+        {
+          "name": "Facebook-Data-Leak🖥️",
+          "type": "url",
+          "url": "https://github.com/attakercyebr/Facebook-Data-Leak"
+        },
+        {
+          "name": "Profile-picture-viewer🖥️",
+          "type": "url",
+          "url": "https://khalil-shreateh.com/khalil.shtml/social_applications/facebook-applications/profile-picture-viewer-app.html"
+        }],
+        "name": "Tools",
+        "type": "folder"
+      }],
+      "name": "Facebook",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "Twitter-Advanced-Search🖥️",
+          "type": "url",
+          "url": "https://twitter.com/search-advanced"
+        },
+        {
+          "name": "Twitter-Location-Search🖥️",
+          "type": "url",
+          "url": "https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd"
+        },
+        {
+          "name": "Twitter-Date-Search🖥️",
+          "type": "url",
+          "url": "https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02"
+        },
+        {
+          "name": "Twitter-search-tool🖥️",
+          "type": "url",
+          "url": "https://www.aware-online.com/en/osint-tools/twitter-search-tool/"
+        },
+        {
+          "name": "Twint🗡️",
+          "type": "url",
+          "url": "https://github.com/twintproject/twint"
+        },
+        {
+          "name": "Osint-Essentials🖥️",
+          "type": "url",
+          "url": "https://www.osintessentials.com/twitter"
+        },
+        {
+          "name": "Ane-Plus.Github🖥️",
+          "type": "url",
+          "url": "https://one-plus.github.io/Twitter"
+        },
+        {
+          "name": "Cheatsheet-hunting-twitter📝",
+          "type": "url",
+          "url": "https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/twitter/"
+        },
+        {
+          "name": "Twopcharts🖥️",
+          "type": "url",
+          "url": "http://twopcharts.com/"
+        },
+        {
+          "name": "Find-emails-on-twitte📝",
+          "type": "url",
+          "url": "https://snov.io/blog/how-to-find-emails-on-twitter/"
+        },
+        {
+          "name": "Twitter-data-leak🖥️",
+          "type": "url",
+          "url": "https://haveibeenpwned.com/"
+        }
+        ],
+        "name": "Search",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "Twitter-profile-downloader🖥️",
+          "type": "url",
+          "url": "https://www.howtotechies.com/twitter-profile-picture-downloader"
+        }],
+        "name": "Pictures",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "children": [
+          {
+            "name": "Foller🖥️",
+            "type": "url",
+            "url": "https://foller.me/"
+          },
+          {
+            "name": "Fake-Follower-Check🖥️",
+            "type": "url",
+            "url": "https://www.followeraudit.com/"
+          },
+          {
+            "name": "Foller-Analytics🖥️",
+            "type": "url",
+            "url": "https://foller.me/"
+          },
+          {
+            "name": "Twitter-osint🖥️",
+            "type": "url",
+            "url": "https://github.com/topics/twitter-osint"
+          },
+          {
+            "name": "Social-Bearing🖥️",
+            "type": "url",
+            "url": "https://socialbearing.com/"
+          }],
+          "name": "Profile",
+          "type": "folder"
+        },
+        {
+          "children": [
+          {
+            "name": "Tagboard🖥️",
+            "type": "url",
+            "url": "https://tagboard.com/"
+          },
+          {
+            "name": "RiteTag🖥️",
+            "type": "url",
+            "url": "https://ritetag.com/"
+          },
+          {
+            "name": "Trends-Map🖥️",
+            "type": "url",
+            "url": "http://trendsmap.com/"
+          },
+          {
+            "name": "Onemillion-Tweetmap🖥️",
+            "type": "url",
+            "url": "https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1"
+          },
+          {
+            "name": "TAGS-Explorer🖥️",
+            "type": "url",
+            "url": "https://tags.hawksey.info/tagsexplorer/"
+          }],
+          "name": "Hashtag",
+          "type": "folder"
+        },
+        {
+          "name": "Tweet-Metadata🖥️",
+          "type": "url",
+          "url": "http://online.wsj.com/public/resources/documents/TweetMetadata.pdf"
+        },
+        {
+          "name": "Tinfo-leak🖥️",
+          "type": "url",
+          "url": "http://tinfoleak.com/"
+        },
+        {
+          "name": "Tinfoleak🗡️",
+          "type": "url",
+          "url": "http://www.vicenteaguileradiaz.com/tools/"
+        },
+        {
+          "name": "DMI-TCAT🗡️",
+          "type": "url",
+          "url": "https://github.com/digitalmethodsinitiative/dmi-tcat"
+        },
+        {
+          "name": "Twint🗡️",
+          "type": "url",
+          "url": "https://github.com/twintproject/twint"
+        }],
+        "name": "Analytics",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "GeoSocial-Footprint🖥️",
+          "type": "url",
+          "url": "http://geosocialfootprint.com/"
+        },
+        {
+          "name": "Echosec🖥️",
+          "type": "url",
+          "url": "https://app.echosec.net/"
+        },
+        {
+          "name": "Heavy.ai🖥️",
+          "type": "url",
+          "url": "http://mapd.csail.mit.edu/tweetmap/"
+        },
+        {
+          "name": "Harvard-Map🖥️",
+          "type": "url",
+          "url": "http://worldmap.harvard.edu/tweetmap/"
+        },
+        {
+          "name": "OneMillion-TweetMap🖥️",
+          "type": "url",
+          "url": "http://onemilliontweetmap.com/"
+        },
+        {
+          "name": "Creepy🗡️",
+          "type": "url",
+          "url": "http://www.geocreepy.com/"
+        }
+        ],
+        "name": "Location / Mapping",
+        "type": "folder"
+      },
+      {
+        "children": [
+        {
+          "name": "See-Deleted-Tweets📝",
+          "type": "url",
+          "url": "https://www.airdroid.com/parent-control/see-deleted-tweets/#:~:text=To%20see%20deleted%20tweets%2C%20simply,open%20the%20WayBack%20Machine%20archives."
+        },
+        {
+          "name": "Spoonbill🖥️",
+          "type": "url",
+          "url": "https://spoonbill.io"
+        },
+        {
+          "name": "Twayback🗡️",
+          "type": "url",
+          "url": "https://github.com/humandecoded/twayback"
+        }],
+        "name": "Archive / Deleted Tweets",
+        "type": "folder"
+      }
+      ],
+      "name": "Twitter",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Telegram-Osint📝",
+        "type": "url",
+        "url": "https://github.com/cqcore/Telegram-OSINT"
+      },
+      {
+        "name": "Conduct-osint-on-telegram📝",
+        "type": "url",
+        "url": "https://www.liferaftinc.com/blog/how-to-conduct-osint-on-telegram"
+      },
+      {
+        "name": "Awesome-Telegram-Osint🗡️",
+        "type": "url",
+        "url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT"
+      },
+      {
+        "name": "Osint-me🖥️",
+        "type": "url",
+        "url": "https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/"
+      },
+      {
+        "name": "Telegram-Search-Engines🖥️",
+        "type": "url",
+        "url": "https://tlgrm.eu/channels"
+      },
+      {
+        "name": "OSINT-Channels📝",
+        "type": "url",
+        "url": "https://t.me/bellingcat_en"
+      }
+      ],
+      "name": "Telegram",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Linkedin-search-tool🖥️",
+        "type": "url",
+        "url": "https://www.aware-online.com/osint-tools/linkedin-search-tool/"
+      },
+      {
+        "name": "Conduct-Osint-On-Linkedin📝",
+        "type": "url",
+        "url": "https://www.osintme.com/index.php/2020/04/26/how-to-conduct-osint-on-linkedin/"
+      },
+      {
+        "name": "Linkedin2username🗡️",
+        "type": "url",
+        "url": "https://github.com/initstring/linkedin2username"
+      }],
+      "name": "LinkedIn",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Osintgram🗡️",
+        "type": "url",
+        "url": "https://github.com/Datalux/Osintgram"
+      },
+      {
+        "name": "HunxByts🗡️",
+        "type": "url",
+        "url": "https://github.com/HunxByts/INSTA-OSINT"
+      },
+      {
+        "name": "Haax-Fr🖥️",
+        "type": "url",
+        "url": "https://cheatsheet.haax.fr/open-source-intelligence-osint/platforms-hunting/instagram/"
+      },
+      {
+        "name": "Osint-instagram-youtube📝",
+        "type": "url",
+        "url": "https://www.youtube.com/watch?v=6xW4T03Fd-c"
+      },
+      {
+        "name": "Facebook-instagram-osint-addon🤖",
+        "type": "url",
+        "url": "https://addons.mozilla.org/nl/firefox/addon/facebook-instagram-osint/"
+      }],
+      "name": "Instagram",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Social-Searcher🖥️",
+        "type": "url",
+        "url": "http://www.social-searcher.com/"
+      },
+      {
+        "name": "Google-Social-Search🖥️",
+        "type": "url",
+        "url": "http://www.social-searcher.com/google-social-search/"
+      },
+      {
+        "name": "SocialBlade🖥️",
+        "type": "url",
+        "url": "https://socialblade.com/"
+      },
+      {
+        "name": "Maltego🗡️",
+        "type": "url",
+        "url": "https://www.maltego.com/product-features/?utm_source=google&utm_medium=cpc&gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8vg6sg3wp2P2BRyXariqLGu95NTOPtgsrkaLACYEPlyEyAldOm4rmoaAqt7EALw_wcB"
+      },
+      {
+        "name": "Zerofox🖥️",
+        "type": "url",
+        "url": "https://www.zerofox.com/resources/external-threat-intelligence-services/?utm_source=google&utm_medium=cpc&utm_term=open%20source%20intelligence&utm_campaign=paid-search-forrester-report&utm_content=open-source-intelligence&gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8vJrP-rBeQhjhFj39LgDGafCcLPmwJmmtCa0mcUMudEwscXXo3e5BIaArbmEALw_wcB"
+      },
+      {
+        "name": "Topics-Osint-Github🗡️",
+        "type": "url",
+        "url": "https://github.com/topics/osint"
+      },
+      {
+        "name": "Searchlr📝",
+        "type": "url",
+        "url": "https://blog.pagefreezer.com/7-osint-socmint-tools-social-media-investigations"
+      }
+      ],
+      "name": "Search",
+      "type": "folder"
+    }
+    ],
+    "name": "Social Networks",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Proxy6🖥️",
+        "type": "url",
+        "url": "https://proxy6.net/en/privacy"
+      },
+      {
+        "name": "2ip🖥️",
+        "type": "url",
+        "url": "https://2ip.io/privacy/"
+      },
+      {
+        "name": "Hidemyna🖥️",
+        "type": "url",
+        "url": "https://hidemyna.me/en/anonymity-checker/"
+      },
+      {
+        "name": "Justdeleteme🖥️",
+        "type": "url",
+        "url": "http://backgroundchecks.org/justdeleteme/"
+      },
+      {
+        "name": "Accountkiller🖥️",
+        "type": "url",
+        "url": "https://www.accountkiller.com/nl/home-nl"
+      },
+      {
+        "name": "Browser-leaks🖥️",
+        "type": "url",
+        "url": "https://browserleaks.com/"
+      },
+      {
+        "name": "Browser-privacy-check🖥️",
+        "type": "url",
+        "url": "https://www.experte.com/browser-privacy-check"
+      },
+      {
+        "name": "Ipleak🖥️",
+        "type": "url",
+        "url": "https://ipleak.net/"
+      }],
+      "name": "Anonymity-Checker",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Tails-OS🗡️",
+        "type": "url",
+        "url": "https://tails.net/"
+      },
+      {
+        "name": "Tor🗡️",
+        "type": "url",
+        "url": "https://www.torproject.org/"
+      },
+      {
+        "name": "Duck-Duckgo🗡️",
+        "type": "url",
+        "url": "https://duckduckgo.com/"
+      },
+      {
+        "name": "Mac-changer🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/macchanger/"
+      },
+      {
+        "name": "Proxychains🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/proxychains-ng/"
+      },
+      {
+        "name": "I2p(Anonymous Network)🗡️",
+        "type": "url",
+        "url": "https://geti2p.net/en/"
+      },
+      {
+        "name": "Web-Proxy🖥️",
+        "type": "url",
+        "url": "https://proxyium.com/"
+      },
+      {
+        "name": "Proton-Mail(Anonymous-email-services)🗡️",
+        "type": "url",
+        "url": "https://proton.me/nl/mail"
+      },
+      {
+        "name": "Best-no-log-vpn📝",
+        "type": "url",
+        "url": "https://www.vpn-mentors.com/popular/best-no-log-vpns/?keyword=vpn%20no%20log&geo=2528&device=&cq_src=google_ads&cq_cmp=11313957497&cq_term=vpn%20no%20log&cq_plac=&cq_net=g&cq_plt=gp&gad=1&gclid=Cj0KCQjwn_OlBhDhARIsAG2y6zMrhrBGyu0gMDtr6vXohBiGZyDOcd1ytB-WP16mj53nMct75V8ZIS8aAqgzEALw_wcB"
+      },
+      {
+        "name": "Session(secure-socail)🗡️",
+        "type": "url",
+        "url": "https://getsession.org/blog/i-need-a-new-identity"
+      }],
+      "name": "Tools",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Quora-remain-completely-anonymous📝",
+        "type": "url",
+        "url": "https://www.quora.com/How-do-hackers-remain-completely-anonymous"
+      },
+      {
+        "name": "Sock-puppets📝",
+        "type": "url",
+        "url": "https://www.cybervie.com/blog/what-is-sock-puppets-in-osint-how-to-create-one/"
+      },
+      {
+        "name": "File-upload-online📝",
+        "type": "url",
+        "url": "https://file.io/nlZt4uj0H29w"
+      },
+      {
+        "name": "Remain-anonymous📝",
+        "type": "url",
+        "url": "https://ianhsutherland.com/5-ways-computer-hackers-remain-anonymous/"
+      }],
+      "name": "Technique",
+      "type": "folder"
+    }
+    ],
+    "name": "Anonymity",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Pipl🖥️",
+        "type": "url",
+        "url": "https://pipl.com/product/pipl-search"
+      },
+      {
+        "name": "Spokeo-People-Search🖥️",
+        "type": "url",
+        "url": "http://www.spokeo.com/"
+      },
+      {
+        "name": "Check-all-your-genealogy-names🖥️",
+        "type": "url",
+        "url": "https://www.ancestry.com/"
+      },
+      {
+        "name": "USA-Public-Data-Search🖥️",
+        "type": "url",
+        "url": "https://cubib.com/"
+      },
+      {
+        "name": "People-search-free🖥️",
+        "type": "url",
+        "url": "https://www.beenverified.com/"
+      },
+      {
+        "name": "True-People-Search-free🖥️",
+        "type": "url",
+        "url": "https://www.truepeoplesearch.com/"
+      },
+      {
+        "name": "Search-people-free🖥️",
+        "type": "url",
+        "url": "https://www.searchpeoplefree.com/"
+      },
+      {
+        "name": "Whitepages-free🖥️",
+        "type": "url",
+        "url": "https://www.whitepages.com/person"
+      },
+      {
+        "name": "Zabasearch-free🖥️",
+        "type": "url",
+        "url": "https://www.zabasearch.com/"
+      },
+      {
+        "name": "Password-Leak-Lookup🖥️",
+        "type": "url",
+        "url": "https://www.dehashed.com/"
+      },
+      {
+        "name": "leak-lookup-free🖥️",
+        "type": "url",
+        "url": "https://leak-lookup.com/"
+      }],
+      "name": "General People Search",
+      "type": "folder"
+    }
+    ],
+    "name": "People Search Engines",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Cryptocurrency-tools🖥️",
+      "type": "url",
+      "url": "https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/"
+    },
+    {
+      "name": "Cryptocurrency-osint-cryptocurrency📝",
+      "type": "url",
+      "url": "https://www.skopenow.com/resource-center/cryptocurrency-and-nft-osint-investigations-tips-techniques"
+    },
+    {
+      "name": "Osint_criypto_web3🗡️",
+      "type": "url",
+      "url": "https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff"
+    },
+    {
+      "name": "Bitcoin-whoswho🖥️",
+      "type": "url",
+      "url": "https://www.bitcoinwhoswho.com/"
+    },
+    {
+      "name": "Bitcoin-investigations📝",
+      "type": "url",
+      "url": "https://www.hackers-arise.com/post/open-source-intelligence-osint-osint-tools-for-bitcoin-investigations"
+    },
+    {
+      "name": "Start-me🖥️",
+      "type": "url",
+      "url": "https://start.me/p/eke9a5/osint-tools"
+    },
+    {
+      "name": "Crypto-wallet-check🖥️",
+      "type": "url",
+      "url": "https://blockchair.com/"
+    },
+    {
+      "name": "Scam-check📝",
+      "type": "url",
+      "url": "https://help.1inch.io/en/articles/5363502-5-tools-to-identify-a-defi-scam-token"
+    }
+    ],
+    "name": "Crypto Currency",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "NumberingPlans🖥️",
+      "type": "url",
+      "url": "https://www.numberingplans.com/?page=analysis&sub=phonenr"
+    },
+    {
+      "name": "WhoCalld🖥️",
+      "type": "url",
+      "url": "https://whocalld.com/"
+    },
+    {
+      "name": "Reverse-phone-lookup🖥️",
+      "type": "url",
+      "url": "https://www.411.com/reverse-phone-lookup"
+    },
+    {
+      "name": "Truecaller🖥️",
+      "type": "url",
+      "url": "https://www.truecaller.com/"
+    },
+    {
+      "name": "Fone-Finder🖥️",
+      "type": "url",
+      "url": "http://www.fonefinder.net/"
+    },
+    {
+      "name": "Numberbook🖥️",
+      "type": "url",
+      "url": "https://numberbook.net/"
+    },
+    {
+      "name": "Reverse-Genie🖥️",
+      "type": "url",
+      "url": "http://www.reversegenie.com/phone.php"
+    },
+    {
+      "name": "SpyDialer🖥️",
+      "type": "url",
+      "url": "http://www.spydialer.com/default.aspx"
+    },
+    {
+      "name": "Free-oprator-Lookup🖥️",
+      "type": "url",
+      "url": "http://freecarrierlookup.com/"
+    },
+    {
+      "name": "Phone-number-tools🖥️",
+      "type": "url",
+      "url": "https://www.aware-online.com/en/osint-tools/phone-number-tools/"
+    },
+    {
+      "name": "Identifying-Phone-Number📝",
+      "type": "url",
+      "url": "https://x-ray.contact/blog/how-to-find-identifying-information-from-a-phone-number-using-osint-tools/"
+    },
+    {
+      "name": "infoga🗡️",
+      "type": "python3 Module",
+      "url": "https://github.com/sundowndev/phoneinfoga"
+    },
+    {
+      "name": "Who-is-number-this🖥️",
+      "type": "url",
+      "url": "https://www.beenverified.com/?utm_source=google&utm_medium=cpc&utm_campaign=BV_PHN_SEA_PRP_PHS_Phone_General_Exact&utm_term=telephone%20number%20look%20up&utm_content=423896698712&matchtype=e&adgroup=By_Phone_Number&device=c&gad=1&gclid=Cj0KCQjw5f2lBhCkARIsAHeTvlicMdjoCDg_AI_7_DJacLj4DeM7VPyLUc6AVz1FNcQgHqkBmG3nKusaAht6EALw_wcB"
+    }],
+    "name": "Phone Numbers",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Property-Viewer🖥️",
+        "type": "url",
+        "url": "http://www.melissadata.com/lookups/propertyviewer.asp"
+      },
+      {
+        "name": "Zillow🖥️",
+        "type": "url",
+        "url": "http://www.zillow.com/"
+      },
+      {
+        "name": "Emporis🖥️",
+        "type": "url",
+        "url": "https://www.emporis.com/"
+      },
+      {
+        "name": "Homefacts🖥️",
+        "type": "url",
+        "url": "https://www.homefacts.com/"
+      },
+      {
+        "name": "Neighbor-Report🖥️",
+        "type": "url",
+        "url": "https://neighbor.report/"
+      },
+      {
+        "name": "Redfin🖥️",
+        "type": "url",
+        "url": "https://www.redfin.com/"
+      }],
+      "name": "Property Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "USA-County-Court-Records🖥️",
+        "type": "url",
+        "url": "http://www.blackbookonline.info/USA-County-Court-Records.aspx"
+      },
+      {
+        "name": "World-Legal-Information🖥️",
+        "type": "url",
+        "url": "http://worldlii.org/"
+      },
+      {
+        "name": "Canadian-Legal-Information🖥️",
+        "type": "url",
+        "url": "http://www.canlii.org/en/"
+      },
+      {
+        "name": "CrimeReports🖥️",
+        "type": "url",
+        "url": "https://www.crimereports.com/"
+      },
+      {
+        "name": "Criminal-Searches🖥️",
+        "type": "url",
+        "url": "http://www.criminalsearches.com/"
+      },
+      {
+        "name": "National-Sex-Offender-Search🖥️",
+        "type": "url",
+        "url": "https://www.nsopw.gov/en/Search"
+      },
+      {
+        "name": "Mugshots🖥️",
+        "type": "url",
+        "url": "http://mugshots.com/"
+      },
+      {
+        "name": "Federal-Inmate-Locator🖥️",
+        "type": "url",
+        "url": "https://www.bop.gov/inmateloc/"
+      }],
+      "name": "Criminal Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Archives-gov🖥️",
+          "type": "url",
+          "url": "https://www.archives.gov/"
+        },
+        {
+          "name": "National-archives🖥️",
+          "type": "url",
+          "url": "https://www.nationalarchives.gov.uk/"
+        },
+        {
+          "name": "Government🖥️",
+          "type": "url",
+          "url": "https://www.government.nl/topics/personal-data/personal-records-database-brp"
+        }
+      ],
+      "name": "Government Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "BIN-Base🖥️",
+        "type": "url",
+        "url": "http://www.binbase.com/search.html"
+      },
+      {
+        "name": "VAT-Research🖥️",
+        "type": "url",
+        "url": "https://vat-search.eu/"
+      },
+      {
+        "name": "NETR-Online🖥️",
+        "type": "url",
+        "url": "http://publicrecords.netronline.com/"
+      }],
+      "name": "Tax Resources",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Sorted-By-Birth-Date🖥️",
+        "type": "url",
+        "url": "http://sortedbybirthdate.com/"
+      },
+      {
+        "name": "Myheritage🖥️",
+        "type": "url",
+        "url": "https://www.myheritage.com/search-records?utm_source=ppc_google&utm_medium=cpc&utm_campaign=mh_search_ww_en_des_sup_exact_weu-birth&utm_content=570809488252&utm_term=birth+records&tr_camp_id=15634371066&tr_ad_group=birth-records&tr_ag_id=130891262789&tr_placement=&tr_device=c&tr_account=569-053-2105&keyword=birth&tr_size=&currency_name=&gad=1&gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSW3P9tDFduTaY_VzckP2WxVthSRr4LUvZq-3skydC-K7vVtQx2wrwEaArvfEALw_wcB"
+      },
+      {
+        "name": "Ancestry🖥️",
+        "type": "url",
+        "url": "https://www.ancestry.com/search/categories/34/"
+      }],
+      "name": "Birth Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Myheritage🖥️",
+        "type": "url",
+        "url": "https://www.myheritage.com/search-records?utm_source=ppc_google&utm_medium=cpc&utm_campaign=mh_search_ww_en_des_sup_exact_weu-death&utm_content=570809488225&utm_term=death+records+for+free&tr_camp_id=15634371063&tr_ad_group=death-records-free&tr_ag_id=130891262549&tr_placement=&tr_device=c&tr_account=569-053-2105&keyword=death&tr_size=&currency_name=&gad=1&gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSXICaXIii8mdh17oI2y3JNirYQ2JpNN2zdQiIaT8SPKEB9jnw8OW0UaAuvdEALw_wcB"
+      },
+      {
+        "name": "Ancestry🖥️",
+        "type": "url",
+        "url": "https://www.ancestry.com/search/categories/34/"
+      },
+      {
+        "name": "Findmypast🖥️",
+        "type": "url",
+        "url": "https://search.findmypast.co.uk/search-united-kingdom-records-in-birth-marriage-death-and-parish-records"
+      }],
+      "name": "Death Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Vt-gov🖥️",
+        "type": "url",
+        "url": "https://vt.ncsbe.gov/RegLkup/"
+      },
+      {
+        "name": "Voter-Registration-Data🖥️",
+        "type": "url",
+        "url": "http://www.blackbookonline.info/USA-Voter-Records.aspx"
+      }],
+      "name": "Voter Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Searching-for-patents🖥️",
+        "type": "url",
+        "url": "https://www.epo.org/searching-for-patents/technical/espacenet.html"
+      },
+      {
+        "name": "Google-Patent-Search🖥️",
+        "type": "url",
+        "url": "https://www.google.com/advanced_patent_search"
+      }],
+      "name": "Patent Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "OpenSecrets🖥️",
+        "type": "url",
+        "url": "http://www.opensecrets.org/"
+      },
+      {
+        "name": "Political-MoneyLine🖥️",
+        "type": "url",
+        "url": "http://www.politicalmoneyline.com/"
+      },
+      {
+        "name": "MelissaDatas🖥️",
+        "type": "url",
+        "url": "http://www.melissadata.com/lookups/fec.asp"
+      },
+      {
+        "name": "Fec-gov🖥️",
+        "type": "url",
+        "url": "http://www.fec.gov/finance/disclosure/norindsea.shtml"
+      },
+      {
+        "name": "Every-Politician🖥️",
+        "type": "url",
+        "url": "http://everypolitician.org/"
+      }],
+      "name": "Political Records",
+      "type": "folder"
+    }
+    ],
+    "name": "Public Records",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Annual-Reports🖥️",
+        "type": "url",
+        "url": "http://www.annualreports.com/"
+      },
+      {
+        "name": "Reportlinker🖥️",
+        "type": "url",
+        "url": "http://www.reportlinker.com/"
+      },
+      {
+        "name": "Public-Register-Online🖥️",
+        "type": "url",
+        "url": "http://www.annualreportservice.com/"
+      },
+      {
+        "name": "Public-Register's🖥️",
+        "type": "url",
+        "url": "http://www.prars.com/search/alpha/A"
+      },
+      {
+        "name": "International-Registries🖥️",
+        "type": "url",
+        "url": "https://www.gov.uk/government/publications/overseas-registries/overseas-registries"
+      }],
+      "name": "Annual Reports",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Businessweek-Search🖥️",
+        "type": "url",
+        "url": "http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp"
+      },
+      {
+        "name": "Corporation-Wiki🖥️",
+        "type": "url",
+        "url": "http://www.corporationwiki.com/"
+      },
+      {
+        "name": "SEC-Gov🖥️",
+        "type": "url",
+        "url": "http://www.sec.gov/edgar.shtml"
+      },
+      {
+        "name": "International-White-Pages🖥️",
+        "type": "url",
+        "url": "http://www.wayp.com/"
+      },
+      {
+        "name": "UK-Companies🖥️",
+        "type": "url",
+        "url": "https://www.gov.uk/get-information-about-a-company"
+      },
+      {
+        "name": "Global-EDGE-Resource🖥️",
+        "type": "url",
+        "url": "http://globaledge.msu.edu/global-resources"
+      },
+      {
+        "name": "Ripoff-Report🖥️",
+        "type": "url",
+        "url": "http://www.ripoffreport.com/"
+      },
+      {
+        "name": "Google-Finance🖥️",
+        "type": "url",
+        "url": "https://www.google.com/finance"
+      }],
+      "name": "General Info & News",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "OpenCorporates🖥️",
+        "type": "url",
+        "url": "https://opencorporates.com/"
+      },
+      {
+        "name": "Corporation-Wiki🖥️",
+        "type": "url",
+        "url": "https://www.corporationwiki.com/"
+      },
+      {
+        "name": "ZoomInfo🖥️",
+        "type": "url",
+        "url": "http://www.zoominfo.com/company-directory/us"
+      },
+      {
+        "name": "Kompass-International🖥️",
+        "type": "url",
+        "url": "http://www.kompass.com/selectcountry/"
+      },
+      {
+        "name": "Infobel🖥️",
+        "type": "url",
+        "url": "http://www.infobel.com/en/world/"
+      },
+      {
+        "name": "Manta🖥️",
+        "type": "url",
+        "url": "http://www.manta.com/business"
+      },
+      {
+        "name": "AIHIT🖥️",
+        "type": "url",
+        "url": "https://www.aihitdata.com/"
+      },
+      {
+        "name": "Buzzfile🖥️",
+        "type": "url",
+        "url": "http://www.buzzfile.com/Home/Basic"
+      },
+      {
+        "name": "LittleSis🖥️",
+        "type": "url",
+        "url": "http://littlesis.org/"
+      },
+      {
+        "name": "Companies-House🖥️",
+        "type": "url",
+        "url": "https://beta.companieshouse.gov.uk/"
+      },
+      {
+        "name": "Hoovers🖥️",
+        "type": "url",
+        "url": "http://www.hoovers.com/"
+      },
+      {
+        "name": "CorporateInformation🖥️",
+        "type": "url",
+        "url": "http://corporateinformation.com/"
+      }
+      ],
+      "name": "Company Profiles",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "RecruitEm🖥️",
+        "type": "url",
+        "url": "http://recruitin.net/"
+      },
+      {
+        "name": "LinkedIn🖥️",
+        "type": "url",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "name": "XING🖥️",
+        "type": "url",
+        "url": "https://www.xing.com/"
+      },
+      {
+        "name": "Indeed🖥️",
+        "type": "url",
+        "url": "http://www.indeed.com/"
+      }
+      ],
+      "name": "Resumes",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "RBA-Business-Information🖥️",
+        "type": "url",
+        "url": "http://www.rba.co.uk/sources/"
+      },
+      {
+        "name": "VAT-Number-Validation🖥️",
+        "type": "url",
+        "url": "http://ec.europa.eu/taxation_customs/vies/?locale=en"
+      }],
+      "name": "Additional Resources",
+      "type": "folder"
+    }],
+    "name": "Business Records",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "VIN-Decoderz🖥️",
+        "type": "url",
+        "url": "http://www.vindecoderz.com/"
+      },
+      {
+        "name": "Reverse-Genie-License🖥️",
+        "type": "url",
+        "url": "http://www.reversegenie.com/plate.php"
+      },
+      {
+        "name": "Vin-Check🖥️",
+        "type": "url",
+        "url": "https://www.nicb.org/theft_and_fraud_awareness/vincheck"
+      },
+      {
+        "name": "TRAVIC-Public🖥️",
+        "type": "url",
+        "url": "http://tracker.geops.ch/"
+      },
+      {
+        "name": "License-Plate-Search🖥️",
+        "type": "url",
+        "url": "https://www.vehiclehistory.com/licence-plate-search/licence-plate.php"
+      }],
+      "name": "Vehicle Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Flight-Aware🖥️",
+        "type": "url",
+        "url": "http://flightaware.com/live/"
+      },
+      {
+        "name": "Flightradar24🖥️",
+        "type": "url",
+        "url": "https://www.flightradar24.com/"
+      },
+      {
+        "name": "Radarbox🖥️",
+        "type": "url",
+        "url": "https://www.radarbox.com/@32.19325,-42.12132,z2"
+      },
+      {
+        "name": "ADSB-Exchange🖥️",
+        "type": "url",
+        "url": "https://www.adsbexchange.com/"
+      }],
+      "name": "Air Traffic Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Marine-Traffic🖥️",
+        "type": "url",
+        "url": "http://www.marinetraffic.com/"
+      },
+      {
+        "name": "Vessel-Tracker🖥️",
+        "type": "url",
+        "url": "http://www.vesseltracker.com/app"
+      },
+      {
+        "name": "Ship-AIS🖥️",
+        "type": "url",
+        "url": "http://www.shipais.com/"
+      },
+      {
+        "name": "OpenSeaMap🖥️",
+        "type": "url",
+        "url": "http://www.openseamap.org"
+      },
+      {
+        "name": "Vessel-Finder🖥️",
+        "type": "url",
+        "url": "https://www.vesselfinder.com/"
+      }],
+      "name": "Marine Records",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Open-Data-Portal🖥️",
+        "type": "url",
+        "url": "http://data.deutschebahn.com/"
+      },
+      {
+        "name": "OpenRailwayMap🖥️",
+        "type": "url",
+        "url": "https://www.openrailwaymap.org/"
+      }],
+      "name": "Railway Records",
+      "type": "folder"
+    },
+    {
+      "name": "Satellite-Tracking🖥️",
+      "type": "url",
+      "url": "http://www.n2yo.com/"
+    },
+    {
+      "name": "Track-Trace🖥️",
+      "type": "url",
+      "url": "http://www.track-trace.com/"
+    }],
+    "name": "Transportation",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Geolocation-tools🗡️",
+        "type": "url",
+        "url": "https://www.aware-online.com/en/osint-tools/geolocation-tools/"
+      },
+      {
+        "name": "Creepy🗡️",
+        "type": "url",
+        "url": "https://www.geocreepy.com/"
+      },
+      {
+        "name": "Photo-Location-Viewer🖥️",
+        "type": "url",
+        "url": "https://www.pic2map.com/"
+      },
+      {
+        "name": "Exifdata🖥️",
+        "type": "url",
+        "url": "https://exifdata.com/"
+      },
+      {
+        "name": "Geolocation-OSINT📝",
+        "type": "url",
+        "url": "https://www.sans.org/blog/geolocation-resources-for-osint-investigations/"
+      },
+      {
+        "name": "Google-Maps🖥️",
+        "type": "url",
+        "url": "https://www.google.com/maps/"
+      },
+      {
+        "name": "Bing-Maps🖥️",
+        "type": "url",
+        "url": "http://www.bing.com/maps/"
+      },
+      {
+        "name": "Street-View🖥️",
+        "type": "url",
+        "url": "http://www.instantstreetview.com/"
+      },
+      {
+        "name": "Wikimapia🖥️",
+        "type": "url",
+        "url": "http://wikimapia.org/#lang=en&lat=40.078071&lon=-100.458984&z=5&m=b"
+      },
+      {
+        "name": "Google-Earth🖥️",
+        "type": "url",
+        "url": "https://earth.google.com/web/@14.73270009,-70.75326333,-2048.28532146a,22253801.41738415d,35y,246.71086961h,0t,0r"
+      },
+      {
+        "name": "Yandex-Maps🖥️",
+        "type": "url",
+        "url": "https://yandex.com/maps/"
+      },
+      {
+        "name": "Interesting-Place-Mapper🖥️",
+        "type": "url",
+        "url": "https://opentripmap.com/en/#7/46.396/4.669"
+      },
+      {
+        "name": "Wayback-Imagery🖥️",
+        "type": "url",
+        "url": "https://livingatlas.arcgis.com/wayback/"
+      },
+      {
+        "name": "Google-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://www.google.com/imghp?hl=EN"
+      },
+      {
+        "name": "Bing-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://www.bing.com/visualsearch"
+      },
+      {
+        "name": "Yandex-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://yandex.com/images?"
+      },
+      {
+        "name": "Tineye-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://tineye.com/"
+      },
+      {
+        "name": "Cqcore🗡️",
+        "type": "url",
+        "url": "https://github.com/cqcore/Geolocation-OSINT"
+      }],
+      "name": "Geolocation T",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "GPS-Visualizer🖥️",
+        "type": "url",
+        "url": "http://www.gpsvisualizer.com/geocode"
+      },
+      {
+        "name": "Military🖥️",
+        "type": "url",
+        "url": "https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html"
+      },
+      {
+        "name": "Batch-Geocoding🖥️",
+        "type": "url",
+        "url": "https://www.doogal.co.uk/BatchGeocoding.php"
+      },
+      {
+        "name": "Batch-Reverse-Geocoding🖥️",
+        "type": "url",
+        "url": "https://www.doogal.co.uk/BatchReverseGeocoding.php"
+      }],
+      "name": "Coordinates",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Batch-Geo🖥️",
+        "type": "url",
+        "url": "https://batchgeo.com/"
+      },
+      {
+        "name": "Hyper-lapse🗡️",
+        "type": "url",
+        "url": "https://github.com/TeehanLax/Hyperlapse.js"
+      },
+      {
+        "name": "mapillary🖥️",
+        "type": "url",
+        "url": "https://www.mapillary.com/app/?lat=17.165437648040665&lng=56.81328378560454&z=0.6763498643277892"
+      },
+      {
+        "name": "Global-mapper🗡️",
+        "type": "url",
+        "url": "https://soft98.ir/software/engineering/14291-global-mapper.html"
+      }],
+      "name": "Map Reporting Tools",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Open-Signal🖥️",
+        "type": "url",
+        "url": "https://opensignal.com/"
+      },
+      {
+        "name": "Antenna-Search🖥️",
+        "type": "url",
+        "url": "http://www.antennasearch.com/"
+      }],
+      "name": "Mobile Coverage",
+      "type": "folder"
+    }
+    ],
+    "name": "Geolocation Tools / Maps",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Google🖥️",
+        "type": "url",
+        "url": "https://www.google.com/?gws_rd=ssl"
+      },
+      {
+        "name": "Bing🖥️",
+        "type": "url",
+        "url": "http://www.bing.com/"
+      },
+      {
+        "name": "DuckDuckGo🖥️",
+        "type": "url",
+        "url": "https://duckduckgo.com/"
+      },
+      {
+        "name": "StartPage🖥️",
+        "type": "url",
+        "url": "https://www.startpage.com/"
+      },
+      {
+        "name": "Yandex🖥️",
+        "type": "url",
+        "url": "https://www.yandex.com/"
+      },
+      {
+        "name": "Baidu🖥️",
+        "type": "url",
+        "url": "http://www.baidu.com/"
+      },
+      {
+        "name": "Google-Advanced-Search🔎",
+        "type": "url",
+        "url": "https://www.google.com/advanced_search"
+      },
+      {
+        "name": "Google-Dork🔎",
+        "type": "url",
+        "url": "https://timemanagement.nl/google-hacks/"
+      },
+      {
+        "name": "IZito🖥️",
+        "type": "url",
+        "url": "http://www.izito.com/"
+      },
+      {
+        "name": "Bing-vs-Google🖥️",
+        "type": "url",
+        "url": "http://bvsg.org/"
+      },
+      {
+        "name": "Advangle🖥️",
+        "type": "url",
+        "url": "http://advangle.com/"
+      },
+      {
+        "name": "You-Ai🖥️",
+        "type": "url",
+        "url": "https://you.com/"
+      },
+      {
+        "name": "Swisscows🖥️",
+        "type": "url",
+        "url": "https://swisscows.com/en"
+      }],
+      "name": "General Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Google-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://www.google.com/imghp?hl=EN"
+      },
+      {
+        "name": "Bing-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://www.bing.com/visualsearch"
+      },
+      {
+        "name": "Yandex-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://yandex.com/images?"
+      },
+      {
+        "name": "Tineye-Reverse-Image🖥️",
+        "type": "url",
+        "url": "https://tineye.com/"
+      },
+      {
+        "name": "Duplichecker🖥️",
+        "type": "url",
+        "url": "https://www.duplichecker.com/reverse-image-search.php"
+      }],
+      "name": "Reverse Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Dogpile🖥️",
+        "type": "url",
+        "url": "https://www.dogpile.com/"
+      },
+      {
+        "name": "Carrot2🖥️",
+        "type": "url",
+        "url": "https://search.carrot2.org/#/search/web"
+      },
+      {
+        "name": "Startpage🖥️",
+        "type": "url",
+        "url": "https://www.startpage.com/"
+      },
+      {
+        "name": "Kartoo🖥️",
+        "type": "url",
+        "url": "http://www.kartoo.com/"
+      },
+      {
+        "name": "Search🖥️",
+        "type": "url",
+        "url": "https://www.search.com/"
+      },
+      {
+        "name": "Metacrawler🖥️",
+        "type": "url",
+        "url": "https://www.metacrawler.com/"
+      }
+      ],
+      "name": "Meta Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Public-WWW🖥️",
+        "type": "url",
+        "url": "https://publicwww.com/"
+      },
+      {
+        "name": "Search-code🖥️",
+        "type": "url",
+        "url": "https://searchcode.com/"
+      },
+      {
+        "name": "Nerdy-Data🖥️",
+        "type": "url",
+        "url": "https://nerdydata.com/search"
+      },
+      {
+        "name": "Gitrob🗡️",
+        "type": "url",
+        "url": "https://github.com/michenriksen/gitrob"
+      },
+      {
+        "name": "Github-Dorks🗡️",
+        "type": "url",
+        "url": "https://github.com/techgaun/github-dorks"
+      },
+      {
+        "name": "Gitleaks🗡️",
+        "type": "url",
+        "url": "https://github.com/gitleaks/gitleaks"
+      }],
+      "name": "Code Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Search-Ftps🖥️",
+        "type": "url",
+        "url": "https://www.searchftps.net/"
+      },
+      {
+        "name": "FTP-Google-Dork🔎",
+        "type": "url",
+        "url": "https://www.google.com/search?q=inurl%3Aftp+-inurl%3Ahttp+-inurl%3Ahttps+ftpsearchterm"
+      },
+      {
+        "name": "Osint-with-shodan📝",
+        "type": "url",
+        "url": "https://systemweakness.com/osint-with-shodan-information-gathering-on-the-servers-of-your-organization-aa55a0c508c3"
+      },
+      {
+        "name": "Mmnt🖥️",
+        "type": "url",
+        "url": "https://www.mmnt.ru/"
+      },
+      {
+        "name": "Search-22🖥️",
+        "type": "url",
+        "url": "https://search-22.com/ftp-search-tools"
+      }],
+      "name": "FTP Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Microsoft-Academic🖥️",
+        "type": "url",
+        "url": "https://www.microsoft.com/en-us/research/project/academic/"
+      },
+      {
+        "name": "PubPeer🖥️",
+        "type": "url",
+        "url": "https://pubpeer.com/"
+      },
+      {
+        "name": "Bielefeld-Academic-Search🖥️",
+        "type": "url",
+        "url": "https://www.base-search.net/Search/Advanced"
+      },
+      {
+        "name": "Google-Scholar🖥️",
+        "type": "url",
+        "url": "https://scholar.google.com/"
+      },
+      {
+        "name": "PubMed-National🖥️",
+        "type": "url",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/"
+      },
+      {
+        "name": "Lazy-Scholar🗡️",
+        "type": "url",
+        "url": "http://www.lazyscholar.org/"
+      },
+      {
+        "name": "Writer-AI🗡️",
+        "type": "url",
+        "url": "https://smodin.io/writer"
+      },
+      {
+        "name": "Article-Free-AI🖥️",
+        "type": "url",
+        "url": "https://simplified.com/ai-writer/?utm_source=google&utm_medium=cpc&utm_campaign=19323746129&utm_content=145391880915&utm_term=free%20article%20generator%20ai&matchtype=p&network=g&device=c&gclid=CjwKCAjwzo2mBhAUEiwAf7wjkinEI6gszL6jRf09cS1CgbmRLhWqMoDKLGIoDNuyKki5o9yfveCL4xoCOuYQAvD_BwE"
+      }],
+      "name": "Academic Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Paperboy-Online-Newspapers🖥️",
+        "type": "url",
+        "url": "http://www.thepaperboy.com/"
+      },
+      {
+        "name": "Google-News-Search🖥️",
+        "type": "url",
+        "url": "https://news.google.com/news/advanced_news_search?"
+      },
+      {
+        "name": "Flip-board🖥️",
+        "type": "url",
+        "url": "https://flipboard.com/"
+      },
+      {
+        "name": "Newspaper-ARCHIVE🖥️",
+        "type": "url",
+        "url": "http://newspaperarchive.com/"
+      },
+      {
+        "name": "Press-Reader🖥️",
+        "type": "url",
+        "url": "http://www.pressreader.com/"
+      },
+      {
+        "name": "Newspaper-Map🖥️",
+        "type": "url",
+        "url": "http://newspapermap.com/"
+      },
+      {
+        "name": "News-Brief🖥️",
+        "type": "url",
+        "url": "http://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html"
+      },
+      {
+        "name": "In-shorts🖥️",
+        "type": "url",
+        "url": "https://www.inshorts.com/en/read"
+      },
+      {
+        "name": "News-Bot🖥️",
+        "type": "url",
+        "url": "https://getnewsbot.com/"
+      }],
+      "name": "News Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Colossus-International-Engine🖥️",
+        "type": "url",
+        "url": "http://www.searchenginecolossus.com/"
+      },
+      {
+        "name": "Similar-Sites🖥️",
+        "type": "url",
+        "url": "http://www.similarsites.com/browse"
+      },
+      {
+        "name": "AOL-Search-Database🖥️",
+        "type": "url",
+        "url": "http://search-id.com/"
+      },
+      {
+        "name": "Site-like🖥️",
+        "type": "url",
+        "url": "https://www.sitelike.org/"
+      }
+      ],
+      "name": "Other Search",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Google-Hacking-Database🖥️",
+        "type": "url",
+        "url": "https://www.exploit-db.com/google-hacking-database/"
+      },
+      {
+        "name": "Google-Search-Operators🖥️",
+        "type": "url",
+        "url": "http://googleguide.com/advanced_operators_reference.html"
+      },
+      {
+        "name": "Google-Guide-CheatSheet🖥️",
+        "type": "url",
+        "url": "http://googleguide.com/help/calculator.html"
+      }],
+      "name": "Search Engine Guides",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Hoaxy🖥️",
+        "type": "url",
+        "url": "https://hoaxy.iuni.iu.edu/"
+      },
+      {
+        "name": "Africa-Check🖥️",
+        "type": "url",
+        "url": "https://africacheck.org/"
+      },
+      {
+        "name": "Politi-Fact🖥️",
+        "type": "url",
+        "url": "http://www.politifact.com/"
+      },
+      {
+        "name": "Sci-Check🖥️",
+        "type": "url",
+        "url": "http://www.factcheck.org/scicheck/"
+      },
+      {
+        "name": "Duke-Reporters-Lab🖥️",
+        "type": "url",
+        "url": "http://reporterslab.org/fact-checking/"
+      },
+      {
+        "name": "Stop-Fake-Tools🖥️",
+        "type": "url",
+        "url": "http://www.stopfake.org/en/category/tools/"
+      },
+      {
+        "name": "Snopes🖥️",
+        "type": "url",
+        "url": "http://www.snopes.com/"
+      }
+      ],
+      "name": "Fact Checking",
+      "type": "folder"
+    }],
+    "name": "Search Engines",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Board-Reader🖥️",
+        "type": "url",
+        "url": "http://boardreader.com/"
+      },
+      {
+        "name": "Omgili🖥️",
+        "type": "url",
+        "url": "http://omgili.com/"
+      },
+      {
+        "name": "Craigslist-Forums🖥️",
+        "type": "url",
+        "url": "https://forums.craigslist.org/"
+      },
+      {
+        "name": "Delphi-Forum-Search🖥️",
+        "type": "url",
+        "url": "http://www.delphiforums.com/"
+      },
+      {
+        "name": "Reddit-Community🖥️",
+        "type": "url",
+        "url": "https://www.reddit.com/r/InternetIsBeautiful/search/?q=hacker&cId=d8c71198-b686-42f9-bf8a-35b6950ddb33&type=link"
+      },
+      {
+        "name": "Forum-search-engines📝",
+        "type": "url",
+        "url": "https://www.makeuseof.com/tag/3-forum-search-engines-to-search-40-000-message-boards/"
+      }],
+      "name": "Forum Search Engines",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Twingly-Blog-Search🖥️",
+        "type": "url",
+        "url": "https://www.twingly.com/search"
+      },
+      {
+        "name": "Blog-Search-Engine🖥️",
+        "type": "url",
+        "url": "http://www.blogsearchengine.org/"
+      },
+      {
+        "name": "Webopedia🖥️",
+        "type": "url",
+        "url": "https://www.webopedia.com/definitions/blog-search-engine/"
+      },
+      {
+        "name": "Search-blogspot🖥️",
+        "type": "url",
+        "url": "https://www.searchblogspot.com/"
+      }],
+      "name": "Blog Search Engines",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Mibbit🖥️",
+        "type": "url",
+        "url": "http://search.mibbit.com/"
+      },
+      {
+        "name": "irc-Snapshot🖥️",
+        "type": "url",
+        "url": "https://github.com/bwall/ircsnapshot"
+      },
+      {
+        "name": "Xdcc🖥️",
+        "type": "url",
+        "url": "https://www.xdcc.eu/"
+      },
+      {
+        "name": "netsplit🖥️",
+        "type": "url",
+        "url": "http://irc.netsplit.de/channels/search.php"
+      }
+      ],
+      "name": "IRC Search",
+      "type": "folder"
+    }],
+    "name": "Forums / Blogs / IRC",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Internet-Archive🖥️",
+        "type": "url",
+        "url": "https://archive.org/web/"
+      },
+      {
+        "name": "Archive-it🖥️",
+        "type": "url",
+        "url": "https://archive-it.org/"
+      },
+      {
+        "name": "Web-Cite🖥️",
+        "type": "url",
+        "url": "http://webcitation.org/query"
+      },
+      {
+        "name": "Cached-View🖥️",
+        "type": "url",
+        "url": "http://cachedview.com/"
+      },
+      {
+        "name": "Cached-Pages🖥️",
+        "type": "url",
+        "url": "http://www.cachedpages.com/"
+      },
+      {
+        "name": "Textfiles🖥️",
+        "type": "url",
+        "url": "http://textfiles.com/"
+      },
+      {
+        "name": "Dns-Dumpster🖥️",
+        "type": "url",
+        "url": "https://dnsdumpster.com/"
+      },
+      {
+        "name": "Common-Crawl🖥️",
+        "type": "url",
+        "url": "http://commoncrawl.org/"
+      },
+      {
+        "name": "Wayback-Machine-Extension🤖",
+        "type": "url",
+        "url": "https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak"
+      },
+      {
+        "name": "PDF-My-URL🖥️",
+        "type": "url",
+        "url": "http://pdfmyurl.com/"
+      },
+      {
+        "name": "Bounce🖥️",
+        "type": "url",
+        "url": "http://www.bounceapp.com/"
+      },
+      {
+        "name": "Browsershots🖥️",
+        "type": "url",
+        "url": "http://browsershots.org/"
+      },
+      {
+        "name": "Waybackpack🗡️",
+        "type": "url",
+        "url": "https://github.com/jsvine/waybackpack"
+      }],
+      "name": "Web",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Haveibeenpwned🖥️",
+        "type": "url",
+        "url": "https://haveibeenpwned.com/"
+      },
+      {
+        "name": "Leak-lookup🖥️",
+        "type": "url",
+        "url": "https://leak-lookup.com/"
+      },
+      {
+        "name": "Dehashed🖥️",
+        "type": "url",
+        "url": "https://www.dehashed.com/"
+      },
+      {
+        "name": "Leakpeek🖥️",
+        "type": "url",
+        "url": "https://leakpeek.com/"
+      },
+      {
+        "name": "Cryptome🖥️",
+        "type": "url",
+        "url": "http://cryptome.org/"
+      },
+      {
+        "name": "leakfa🖥️",
+        "type": "url",
+        "url": "https://leakfa.com/search"
+      },
+      {
+        "name": "WikiLeaks🖥️",
+        "type": "url",
+        "url": "https://wikileaks.org/"
+      }],
+      "name": "Data Leaks",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Faces-DB🖥️",
+        "type": "url",
+        "url": "http://vis-www.cs.umass.edu/lfw/"
+      },
+      {
+        "name": "UCI-Spambase-Data🖥️",
+        "type": "url",
+        "url": "https://archive.ics.uci.edu/ml/datasets/Spambase"
+      },
+      {
+        "name": "Network-Dataset-Collection🖥️",
+        "type": "url",
+        "url": "http://snap.stanford.edu/data/#amazon"
+      }],
+      "name": "Public Datasets",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Library-Congress-1836-1922🖥️",
+        "type": "url",
+        "url": "http://chroniclingamerica.loc.gov/"
+      },
+      {
+        "name": "Library-Congress-1690-Present🖥️",
+        "type": "url",
+        "url": "http://chroniclingamerica.loc.gov/search/titles/"
+      },
+      {
+        "name": "TV Closed Caption Search🖥️",
+        "type": "url",
+        "url": "https://archive.org/details/tv"
+      }],
+      "name": "Other Media",
+      "type": "folder"
+    }],
+    "name": "Archives",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "DeepL-Translator🖥️",
+        "type": "url",
+        "url": "https://www.deepl.com/"
+      },
+      {
+        "name": "Google-Translate🖥️",
+        "type": "url",
+        "url": "https://translate.google.com/"
+      },
+      {
+        "name": "Bing-Translate🖥️",
+        "type": "url",
+        "url": "http://www.bing.com/translator/"
+      },
+      {
+        "name": "Dictionary-Translator🖥️",
+        "type": "url",
+        "url": "http://translate.reference.com/"
+      },
+      {
+        "name": "Wiktionary🖥️",
+        "type": "url",
+        "url": "https://www.wiktionary.org/"
+      },
+      {
+        "name": "Translate-Yandex🖥️",
+        "type": "url",
+        "url": "https://translate.yandex.com/"
+      },
+      {
+        "name": "Slangit🖥️",
+        "type": "url",
+        "url": "https://slangit.com/"
+      },
+      {
+        "name": "Noslang🖥️",
+        "type": "url",
+        "url": "http://www.noslang.com/"
+      },
+      {
+        "name": "Urban-Dictionary🖥️",
+        "type": "url",
+        "url": "http://www.urbandictionary.com/"
+      }],
+      "name": "Text",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Online-OCR🖥️",
+        "type": "url",
+        "url": "http://www.free-ocr.com/"
+      },
+      {
+        "name": "i2OCR🖥️",
+        "type": "url",
+        "url": "http://www.i2ocr.com/"
+      },
+      {
+        "name": "New-OCR🖥️",
+        "type": "url",
+        "url": "https://www.newocr.com/"
+      },
+      {
+        "name": "Online-OCR🖥️",
+        "type": "url",
+        "url": "http://www.onlineocr.net/"
+      }],
+      "name": "Pictures",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Text-Analysis🖥️",
+        "type": "url",
+        "url": "https://libguides.bodleian.ox.ac.uk/english-language/Text-Analysis#:~:text=Text%20analysis%20tools%20allow%20you,specific%20word%20within%20a%20text."
+      },
+      {
+        "name": "Tone-Analyzer🖥️",
+        "type": "url",
+        "url": "https://www.vcestudyguides.com/blog/195-language-analysis-tones"
+      },
+      {
+        "name": "WhatTheFont🖥️",
+        "type": "url",
+        "url": "https://www.myfonts.com/WhatTheFont/"
+      }
+      ],
+      "name": "Analysis",
+      "type": "folder"
+    }],
+    "name": "Language Translation",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Exiftool🗡️",
+      "type": "url",
+      "url": "https://www.kali.org/tools/libimage-exiftool-perl/"
+    },
+    {
+      "name": "Metagoofil🗡️",
+      "type": "url",
+      "url": "https://www.kali.org/tools/metagoofil/"
+    },
+    {
+      "name": "FOCA🗡️",
+      "type": "url",
+      "url": "https://foca.en.softonic.com/"
+    },
+    {
+      "name": "Exif-Viewer-pro🤖",
+      "type": "url",
+      "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm"
+    },
+    {
+      "name": "Jimpl🖥️",
+      "type": "url",
+      "url": "https://jimpl.com/"
+    },
+    {
+      "name": "View-metadata🖥️",
+      "type": "url",
+      "url": "https://www.metadata2go.com/view-metadata"
+    }],
+    "name": "Metadata",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Chatgpt🖥️",
+      "type": "url",
+      "url": "https://chat.openai.com/auth/login"
+    },
+    {
+      "name": "Bard-Google🖥️",
+      "type": "url",
+      "url": "https://bard.google.com/"
+    },
+    {
+      "name": "Bing-AI🖥️",
+      "type": "url",
+      "url": "https://www.microsoft.com/en-us/edge/launch/newBinginEdge?form=MW00X7"
+    },
+    {
+      "name": "Face-swapper🖥️",
+      "type": "url",
+      "url": "https://faceswapper.ai/"
+    },
+    {
+      "name": "Writing-AI🖥️",
+      "type": "url",
+      "url": "https://www.grammarly.com/ai-writing-tools?utm_source=google&utm_medium=cpc&utm_campaign=19962285085&utm_content=654566133007&utm_term=&target=&targetid=dsa-1999151093501&adgroup=154778978824&device=c&matchtype=&placement=&network=g&extension=&clickid=CjwKCAjwzo2mBhAUEiwAf7wjktPsq8mhtgbNqebsjMqtBdig02hShnSMqgzVTtzDDm-dmjXeK3x-jRoCO2wQAvD_BwE&gad=1&gclid=CjwKCAjwzo2mBhAUEiwAf7wjktPsq8mhtgbNqebsjMqtBdig02hShnSMqgzVTtzDDm-dmjXeK3x-jRoCO2wQAvD_BwE&gclsrc=aw.ds"
+    },
+    {
+      "name": "Voice-Cloning-AI🖥️",
+      "type": "url",
+      "url": "https://play.ht/voice-cloning/?utm_source=google&utm_medium=cpc&utm_campaign=18934523881&utm_content=151120601269&utm_term=&gad=1&gclid=CjwKCAjwzo2mBhAUEiwAf7wjklQeK8EffRmIMjN9B7opPZ5sSXSrZzrzhD5WoHtK3J2p2r7TizAbkhoCHWoQAvD_BwE"
+    },
+    {
+      "name": "Midjourney🖥️",
+      "type": "url",
+      "url": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F"
+    }],
+    "name": "AI",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Visionof-Humanity🖥️",
+      "type": "url",
+      "url": "https://www.visionofhumanity.org/maps/global-terrorism-index/#/"
+    },
+    {
+      "name": "Kaggle🖥️",
+      "type": "url",
+      "url": "https://www.kaggle.com/datasets/START-UMD/gtd"
+    },
+    {
+      "name": "Global-Terrorism-Database🖥️",
+      "type": "url",
+      "url": "http://www.start.umd.edu/gtd/"
+    }],
+    "name": "Terrorism",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "How-to-access-Darkweb🖥️",
+        "type": "url",
+        "url": "https://heimdalsecurity.com/blog/how-to-get-on-the-dark-web/"
+      },
+      {
+        "name": "DarkWeb-Search-Engines🖥️",
+        "type": "url",
+        "url": "https://www.hackread.com/dark-web-search-engines-tor-browser-2022/"
+      },
+      {
+        "name": "Reddit-DeepWeb🖥️",
+        "type": "url",
+        "url": "https://www.reddit.com/r/deepweb"
+      },
+      {
+        "name": "Hidden-Wiki-link🖥️",
+        "type": "url",
+        "url": "https://thehiddenwiki.org/"
+      },
+      {
+        "name": "Reddit-Darknet🖥️",
+        "type": "url",
+        "url": "https://www.reddit.com/r/darknet"
+      }],
+      "name": "General Info",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Tor-Browser🗡️",
+        "type": "url",
+        "url": "https://www.torproject.org/download/download-easy.html.en"
+      },
+      {
+        "name": "Proxychains🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/tools/proxychains-ng/"
+      },
+      {
+        "name": "Web-Proxy🖥️",
+        "type": "url",
+        "url": "https://proxyium.com/"
+      },
+      {
+        "name": "Tails-Os🗡️",
+        "type": "url",
+        "url": "https://tails.net/"
+      },
+      {
+        "name": "No-log-vpn🗡️",
+        "type": "url",
+        "url": "https://vpnoverview.com/best-vpn/best-no-log-vpn/"
+      },
+      {
+        "name": "I2P-Invisible-Internet🗡️",
+        "type": "url",
+        "url": "https://geti2p.net/en/"
+      }],
+      "name": "Tools",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Tor-Bot🗡️",
+        "type": "url",
+        "url": "https://github.com/DedSecInside/TorBot"
+      },
+      {
+        "name": "Hidden-Services-Report🗡️",
+        "type": "url",
+        "url": "https://darkweb.hunch.ly/"
+      },
+      {
+        "name": "Deepweblinks🖥️",
+        "type": "url",
+        "url": "https://deepweblinks.net/search-engines/"
+      },
+      {
+        "name": "Onionscan📝",
+        "type": "url",
+        "url": "https://onionscan.org/"
+      }],
+      "name": "Discovery",
+      "type": "folder"
+    }
+    ],
+    "name": "Dark Web",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Car-model-identifier-ai🖥️",
+      "type": "url",
+      "url": "https://carnet.ai/"
+    },
+    {
+      "name": "Car-model-Recognition🖥️",
+      "type": "url",
+      "url": "hhttps://carmodel.toolpie.com/"
+    },
+    {
+      "name": "Car-model-list🖥️",
+      "type": "url",
+      "url": "https://www.kbb.com/car-make-model-list/new/view-all/"
+    },
+    {
+      "name": "Reverse-image-search🖥️",
+      "type": "url",
+      "url": "https://images.google.com/"
+    }],
+    "name": "Cars",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Humint-Book🖥️",
+      "type": "url",
+      "url": "https://www.google.com/search?q=humint+book&ei=zlrGZMTcHZinqtsPheGk6Ag&oq=Humint+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0h1bWludCBib29rKgIIADIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5I51ZQ2gdYnT9wA3gBkAEImAHLCqABu16qAQszLTIuMC4zLjUuNLgBAcgBAPgBAagCAMICChAAGEcY1gQYsAPCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIaEC4YgAQYxwEY0QMYlwUY3AQY3gQY4ATYAQHCAgcQLhiKBRhDwgIIEC4YgAQY1ALCAhYQLhiKBRhDGJcFGNwEGN4EGOAE2AEBwgIUEC4YgAQYlwUY3AQY3gQY3wTYAQHCAgcQABiKBRhDwgILEC4YgAQYxwEYrwHCAgcQLhiABBgKwgIHEAAYgAQYCsICCBAAGBYYHhgP4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp"
+    },
+    {
+      "name": "Book-pdf📝",
+      "type": "url",
+      "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/fm2_22x3.pdf&ved=2ahUKEwj5m5zNvLaAAxWO9rsIHSF_DaMQFnoECCcQAQ&usg=AOvVaw2ViH--15NtiNC6a5MCwpn2"
+    },
+    {
+      "name": "video-Playlist🖥️",
+      "type": "url",
+      "url": "https://youtube.com/playlist?list=PLS_VzzUifO2bI7xXs0RY22i4_i4-DOpqn"
+    },
+    {
+      "name": "Tools📝",
+      "type": "url",
+      "url": "https://www.google.com/amp/s/www.thinkcurity.com/articles/5-intelligence-gathering-tools-to-improve-risk-assessments%3fhs_amp=true"
+    },
+    {
+      "name": "Topic-humint-github🗡️",
+      "type": "url",
+      "url": "https://offerup.com/"
+    },
+    {
+      "name": "Humint-course🖥️",
+      "type": "url",
+      "url": "https://www.udemy.com/topic/human-intelligence-humint/"
+    }
+    ],
+    "name": "Humint",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+          "name": "Base64decode🖥️",
+          "type": "url",
+          "url": "https://www.google.com/amp/s/amp.base64decode.org/"
+      },
+      {
+        "name": "Onlinehex🖥️",
+        "type": "url",
+        "url": "https://www.javainuse.com/onlinehex"
+     },
+     {
+      "name": "Urlencoder🖥️",
+      "type": "url",
+      "url": "https://amp.urlencoder.org/"
+    }
+      ],
+      "name": "Base64 Hex",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Hashcat🗡️",
+        "type": "url",
+        "url": "https://hashcat.net/hashcat/"
+      },
+      {
+        "name": "Hash-analyzer🖥️",
+        "type": "url",
+        "url": "https://www.tunnelsup.com/hash-analyzer/"
+      },
+      {
+        "name": "Sha256-hash-generator🖥️",
+        "type": "url",
+        "url": "https://passwordsgenerator.net/sha256-hash-generator/"
+      },
+      {
+        "name": "Hash-generator🖥️",
+        "type": "url",
+        "url": "https://www.hashgenerator.de/"
+      }],
+      "name": "Hash",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Encrypt-decrypt-files-symmetric-python🗡️",
+        "type": "url",
+        "url": "https://www.thepythoncode.com/article/encrypt-decrypt-files-symmetric-python"
+      },
+      {
+        "name": "What-is-encryption🖥️",
+        "type": "url",
+        "url": "https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences"
+      },
+      {
+        "name": "Rsa-encryption-Online🖥️",
+        "type": "url",
+        "url": "https://www.devglan.com/online-tools/rsa-encryption-decryption"
+      },
+      {
+        "name": "recovery-ransomware🖥️",
+        "type": "url",
+        "url": "https://www.upguard.com/blog/how-to-decrypt-ransomware"
+      }],
+      "name": "Encryption",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "children": [
+        {
+          "name": "Stegano-Onlin🖥️",
+          "type": "url",
+          "url": "https://futureboy.us/stegano/"
+        },
+        {
+          "name": "Openstego🗡️",
+          "type": "url",
+          "url": "https://www.openstego.com/"
+        },
+        {
+          "name": "Stegonline🖥️",
+          "type": "url",
+          "url": "https://stegonline.georgeom.net/upload"
+        },
+        {
+          "name": "Deep-sound🗡️",
+          "type": "url",
+          "url": "https://wiki.bi0s.in/steganography/deep-sound/"
+        }],
+        "name": "File-Hide",
+        "type": "folder"
+      }],
+      "name": "steganography",
+      "type": "folder"
+    }],
+    "name": "Encoding Decoding steganography",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Maltego🗡️",
+      "type": "url",
+      "url": "https://www.maltego.com/"
+    },
+    {
+      "name": "Epic-Privacy-Browser🗡️",
+      "type": "url",
+      "url": "https://www.epicbrowser.com/"
+    },
+    {
+      "name": "kali-Linux🗡️",
+      "type": "url",
+      "url": "https://www.kali.org/"
+    },
+    {
+      "name": "Metagoofil🗡️",
+      "type": "url",
+      "url": "https://www.kali.org/tools/metagoofil/"
+    },
+    {
+      "name": "Shodan🗡️",
+      "type": "url",
+      "url": "https://www.shodan.io/"
+    },
+    {
+      "name": "Aware-online🖥️",
+      "type": "url",
+      "url": "https://www.aware-online.com/osint-tools/"
+    },
+    {
+      "name": "Top-osint-tools🗡️",
+      "type": "url",
+      "url": "https://geekflare.com/nl/osint-tools/"
+    },
+    {
+      "name": "Google-hacking-database🖥️",
+      "type": "url",
+      "url": "https://www.exploit-db.com/google-hacking-database"
+    },
+    {
+      "name": "Wappalyzer🗡️",
+      "type": "url",
+      "url": "https://www.wappalyzer.com/"
+    },
+    {
+      "name": "Recon-ng🗡️",
+      "type": "url",
+      "url": "https://github.com/lanmaster53/recon-ng"
+    },
+    {
+      "name": "Creepy🗡️",
+      "type": "url",
+      "url": "https://www.geocreepy.com/"
+    },
+    {
+      "name": "Reverse-images-Search🖥️",
+      "type": "url",
+      "url": "https://images.google.com/"
+    },
+    {
+      "name": "Data-leak-lookup🖥️",
+      "type": "url",
+      "url": "https://leak-lookup.com/"
+    },
+    {
+      "name": "People-search🖥️",
+      "type": "url",
+      "url": "https://www.spokeo.com/"
+    },
+    {
+      "name": "Phoneinfoga🗡️",
+      "type": "url",
+      "url": "https://github.com/sundowndev/phoneinfoga"
+    },
+    {
+      "name": "Sherlock🗡️",
+      "type": "url",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "name": "H8mail🗡️",
+      "type": "url",
+      "url": "https://github.com/khast3x/h8mail"
+    },
+    {
+      "name": "Spiderfoot🗡️",
+      "type": "url",
+      "url": "https://github.com/smicallef/spiderfoot"
+    }],
+    "name": "Osint Tools",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Malware-Search🖥️",
+        "type": "url",
+        "url": "https://www.decalage.info/en/mwsearch#gsc.tab=0"
+      },
+      {
+        "name": "Malware-scanner-online🖥️",
+        "type": "url",
+        "url": "https://virusscan.jotti.org/"
+      },
+      {
+        "name": "Check-phishing-site🖥️",
+        "type": "url",
+        "url": "https://checkphish.ai/"
+      },
+      {
+        "name": "Check-phishing-site2🖥️",
+        "type": "url",
+        "url": "https://phishtank.org/"
+      },
+      {
+        "name": "RAT-Decoders🖥️",
+        "type": "url",
+        "url": "https://github.com/kevthehermit/RATDecoders"
+      },
+      {
+        "name": "Finding-decoding-malware🖥️",
+        "type": "url",
+        "url": "https://www.trendmicro.com/en_nz/research/21/b/finding-multi-step-obfuscated-malware.html"
+      },
+      {
+        "name": "Types-of-malware🖥️",
+        "type": "url",
+        "url": "https://www.crowdstrike.com/cybersecurity-101/malware/types-of-malware/"
+      },
+      {
+        "name": "Static-malware-analyze🖥️",
+        "type": "url",
+        "url": "https://youtu.be/KNe4hTVhpPQ"
+      },
+      {
+        "name": "Course🖥️",
+        "type": "url",
+        "url": "https://www.udemy.com/course/advanced-cyber-security-malware-hacking-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282061_._kw__._de_m_._dm__._pl__._ti_dsa-554065857551_._li_1004363_._pd__._&matchtype=&gclid=CjwKCAjwt52mBhB5EiwA05YKo7KwOEbw7f4LQQ-zp94A6vDze0U1btMxHpQuHW9rRRd9wSzGjrphlBoC5YwQAvD_BwE"
+      },
+      {
+        "name": "Malware-analyze-Owasp🖥️",
+        "type": "url",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://owasp.org/www-pdf-archive/OWASPIreland-Limerick_20130221_Malware_Analysis.pdf&ved=2ahUKEwjdn5mSmLmAAxXc_rsIHdeuD6E4FBAWegQIBBAB&usg=AOvVaw2fa6NjI5anjAKIVqRj-fp5"
+      },
+      {
+        "name": "Malware-scanner-online2🖥️",
+        "type": "url",
+        "url": "https://www.virustotal.com/gui/"
+      }],
+      "name": "Static",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Malware-analysis-tools🖥️",
+        "type": "url",
+        "url": "https://www.varonis.com/blog/malware-analysis-tools"
+      },
+      {
+        "name": "Dynamic-Malware-analysis🖥️",
+        "type": "url",
+        "url": "https://youtu.be/3qWEPleT-iU"
+      },
+      {
+        "name": "Scan-windows-using-linuxLive🖥️",
+        "type": "url",
+        "url": "https://null-byte.wonderhowto.com/how-to/scan-for-viruses-windows-using-linux-live-cd-usb-0133076/"
+      },
+      {
+        "name": "Anti-malware🖥️",
+        "type": "url",
+        "url": "https://www.besterantivirusprogramm.com/anti-malware-kostenlos"
+      },
+      {
+        "name": "How-to-do-malware-analysis📝",
+        "type": "url",
+        "url": "https://thehackernews.com/2022/09/how-to-do-malware-analysis.html?m=1"
+      },
+      {
+        "name": "Malware-Traffic-Analysis🗡️",
+        "type": "url",
+        "url": "https://www.malware-traffic-analysis.net/"
+      }],
+      "name": "Dynamic",
+      "type": "folder"
+    }
+    ],
+    "name": "Malware Analysis",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "leakfa🖥️",
+      "type": "url",
+      "url": "https://leakfa.com/search"
+    },
+    {
+      "name": "Mozhemyab🖥️",
+      "type": "url",
+      "url": "https://mozhemyab.ir/"
+    },
+    {
+      "name": "Truecaller🗡️",
+      "type": "url",
+      "url": "https://www.truecaller.com/"
+    },
+    {
+      "name": "Numberbook🗡️",
+      "type": "url",
+      "url": "https://numberbook.net/"
+    },
+    {
+      "name": "Estelam-Cards🖥️",
+      "type": "url",
+      "url": "https://estelam.net/app/tools/sheba"
+    },
+    {
+      "name": "Temp-mail🖥️",
+      "type": "url",
+      "url": "https://temp-mail.org/"
+    },
+    {
+      "name": "Sherlock🗡️",
+      "type": "url",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "name": "Iranian-National-Code🖥️",
+      "type": "url",
+      "url": "https://majidh1.github.io/iranianNationalCode/"
+    },
+    {
+      "name": "Maigret🗡️",
+      "type": "url",
+      "url": "https://github.com/soxoj/maigret/blob/main/README.md"
+    },
+    {
+      "name": "Havij-robot🗡️",
+      "type": "url",
+      "url": "https://t.me/Havij_robot"
+    },
+    {
+      "name": "Kiwi-Robot🗡️",
+      "type": "url",
+      "url": "https://t.me/KiwiRobot"
+    },
+    {
+      "name": "Wigle🗡️",
+      "type": "url",
+      "url": "https://wigle.net/login?destination=/mapsearch#wifiSearch"
+    },
+    {
+      "name": "Shodan🖥️",
+      "type": "url",
+      "url": "https://www.shodan.io/"
+    },
+    {
+      "name": "Onemillion-tweet-map🖥️",
+      "type": "url",
+      "url": "https://onemilliontweetmap.com/?center=26.210639521877454,51.931712424195965&zoom=5&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1"
+    },
+    {
+      "name": "Wappalyzer🗡️",
+      "type": "url",
+      "url": "https://www.wappalyzer.com/"
+    },
+    {
+      "name": "Haveibeenpwned🖥️",
+      "type": "url",
+      "url": "https://haveibeenpwned.com/"
+    },
+    {
+      "name": "Dehashed🖥️",
+      "type": "url",
+      "url": "https://dehashed.com/"
+    },
+    {
+      "name": "Leak-lookup🖥️",
+      "type": "url",
+      "url": "https://leak-lookup.com/"
+    },
+    {
+      "name": "Intelx🖥️",
+      "type": "url",
+      "url": "https://intelx.io/"
+    },
+    {
+      "name": "Reverse-images-Search🖥️",
+      "type": "url",
+      "url": "https://images.google.com/"
+    },
+    {
+      "name": "Twitter-profile-picture-downloader🖥️",
+      "type": "url",
+      "url": "https://www.howtotechies.com/twitter-profile-picture-downloader"
+    },
+    {
+      "name": "Whatsmyname🖥️",
+      "type": "url",
+      "url": "https://whatsmyname.app/"
+    },
+    {
+      "name": "Spiderfoot🗡️",
+      "type": "url",
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "name": "Recon-ng🗡️",
+      "type": "url",
+      "url": "https://github.com/lanmaster53/recon-ng"
+    },
+    {
+      "name": "Maltego🗡️",
+      "type": "url",
+      "url": "https://www.maltego.com/"
+    },
+    {
+      "name": "H8mail🗡️",
+      "type": "url",
+      "url": "https://github.com/khast3x/h8mail"
+    },
+    {
+      "name": "Telegram-OSINT📝",
+      "type": "url",
+      "url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT"
+    },
+    {
+      "name": "Osintgram🗡️",
+      "type": "url",
+      "url": "https://github.com/Datalux/Osintgram"
+    },
+    {
+      "name": "Social-Media-Osint📝",
+      "type": "url",
+      "url": "https://github.com/dheerajydv19/Social-Media-Osint"
+    },
+    {
+      "name": "Iran-passive-reconnaissance📝",
+      "type": "url",
+      "url": "https://www.osintme.com/index.php/2020/12/23/osint-iran-passive-reconnaissance-of-iranian-ip-space-iot-wifi-networks-social-media-and-more/"
+    },
+    {
+      "name": "Osint-tools🗡️",
+      "type": "url",
+      "url": "https://www.aware-online.com/en/osint-tools/"
+    },
+    {
+      "name": "Face-recognition-online🗡️",
+      "type": "url",
+      "url": "https://facecheck.id/"
+    },
+    {
+      "name": "Creepy🗡️",
+      "type": "url",
+      "url": "https://www.geocreepy.com/"
+    },
+    {
+      "name": "View-Metadata🖥️",
+      "type": "url",
+      "url": "https://www.metadata2go.com/view-metadata"
+    },
+    {
+      "name": "Osint-twitter📝",
+      "type": "url",
+      "url": "https://x-ray.contact/blog/step-by-step-guide-to-osint-investigations-on-twitter/"
+    },
+    {
+      "name": "User-searcher🖥️",
+      "type": "url",
+      "url": "https://www.user-searcher.com/"
+    }],
+    "name": "Iran",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Check-phish🖥️",
+        "type": "url",
+        "url": "https://checkphish.ai/"
+      },
+      {
+        "name": "Phish-Tank🖥️",
+        "type": "url",
+        "url": "https://phishtank.org/"
+      }],
+      "name": "Phishing",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Soc-radar🖥️",
+        "type": "url",
+        "url": "https://socradar.io/labs/ioc-radar/"
+      },
+      {
+        "name": "IOC-Parser🖥️",
+        "type": "url",
+        "url": "https://iocparser.com/"
+      },
+      {
+        "name": "Ioc-tools📝",
+        "type": "url",
+        "url": "https://linuxsecurity.expert/security-tools/ioc-tools"
+      },
+      {
+        "name": "Awesome-iocs📝",
+        "type": "url",
+        "url": "https://github.com/sroberts/awesome-iocs"
+      },
+      {
+        "name": "Package-ioc🗡️",
+        "type": "url",
+        "url": "https://socket.dev/npm/package/ioc-tool"
+      },
+      {
+        "name": "Sites-ioc-searching📝",
+        "type": "url",
+        "url": "https://www.linkedin.com/pulse/9-great-sites-ioc-searching-ely-kahn"
+      },
+      {
+        "name": "Indicators-of-compromise🗡️",
+        "type": "url",
+        "url": "https://github.com/topics/indicators-of-compromise"
+      }],
+      "name": "IOC Tools",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Vulners🖥️",
+        "type": "url",
+        "url": "https://vulners.com/search/cvss"
+      },
+      {
+        "name": "Owasp-top-ten🖥️",
+        "type": "url",
+        "url": "https://owasp.org/www-project-top-ten/"
+      },
+      {
+        "name": "Mitre-Top🖥️",
+        "type": "url",
+        "url": "https://cwe.mitre.org/news/archives/news2023.html#july13_2023_Top_25_On_the_Cusp_List_Now_Available"
+      }],
+      "name": "TTPs",
+      "type": "folder"
+    },
+    {
+      "name": "MISP🗡️",
+      "type": "url",
+      "url": "https://github.com/MISP/MISP"
+    },
+    {
+      "name": "Types-of-malware📝",
+      "type": "url",
+      "url": "https://us.norton.com/blog/malware/types-of-malware#:~:text=The%20most%20common%20types%20of%20malware%20include%20viruses%2C%20worms%2C%20trojans,%2C%20fileless%20malware%2C%20and%20malvertising."
+    },
+    {
+      "name": "Threat-map🖥️",
+      "type": "url",
+      "url": "https://threatmap.checkpoint.com/"
+    },
+    {
+      "name": "Common-types-of-cyberattacks📝",
+      "type": "url",
+      "url": "https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/"
+    }],
+    "name": "Threat Intelligence",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Hacker-roadmap🖥️",
+        "type": "url",
+        "url": "https://kaliboys.com/wp-content/uploads/2018/09/hack-roadmap-kaliboys.jpg"
+      },
+      {
+        "name": "Cybersecurity-course🖥️",
+        "type": "url",
+        "url": "https://www.w3schools.com/cybersecurity/"
+      },
+      {
+        "name": "Securty-learning-platform🖥️",
+        "type": "url",
+        "url": "https://www.root-me.org/?lang=en"
+      },
+      {
+        "name": "KaliLinux🗡️",
+        "type": "url",
+        "url": "https://www.kali.org/get-kali/#kali-platforms"
+      },
+      {
+        "name": "Virtualbox🗡️",
+        "type": "url",
+        "url": "https://www.virtualbox.org/"
+      },
+      {
+        "name": "Metasploitable🗡️",
+        "type": "url",
+        "url": "https://sourceforge.net/projects/metasploitable/#:~:text=Metasploitable%20is%20an%20intentionally%20vulnerable%20Linux%20virtual%20machine.,practice%20common%20penetration%20testing%20techniques."
+      },
+      {
+        "name": "Hacking-fundamentals🖥️",
+        "type": "url",
+        "url": "https://www.hackers-arise.com/hacking-fundamentals-1"
+      },
+      {
+        "name": "Hacking-books🖥️",
+        "type": "url",
+        "url": "https://github.com/yeahhub/Hacking-Security-Ebooks"
+      },
+      {
+        "name": "Tryhackme🖥️",
+        "type": "url",
+        "url": "https://tryhackme.com/path/outline/pentestplus"
+      },
+      {
+        "name": "The-hacker-news🖥️",
+        "type": "url",
+        "url": "https://thehackernews.com/search/label/hacking%20news?m=1"
+      },
+      {
+        "name": "Ethical-Hacking-Resources🖥️",
+        "type": "url",
+        "url": "https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources"
+      }],
+      "name": "Hacking Fundamentals",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "The-Art-Of-Deception📝",
+        "type": "url",
+        "url": "https://github.com/InspectorDidi/Hacking-Books/blob/master/Kevin%20Mitnick%20-%20The%20Art%20of%20Deception.pdf"
+      },
+      {
+        "name": "Awesome-social-engineering📝",
+        "type": "url",
+        "url": "https://github.com/giuliacassara/awesome-social-engineering"
+      },
+      {
+        "name": "SET🗡️",
+        "type": "url",
+        "url": "https://github.com/trustedsec/social-engineer-toolkit"
+      },
+      {
+        "name": "Network-Chuck🖥️",
+        "type": "url",
+        "url": "https://youtu.be/HfPKe98UqEI"
+      },
+      {
+        "name": "Practical-Social-Engineering📝",
+        "type": "url",
+        "url": "https://www.amazon.com/Practical-Social-Engineering-Joe-Gray/dp/171850098X"
+      },
+      {
+        "name": "Human-Hacking📝",
+        "type": "url",
+        "url": "https://theswissbay.ch/pdf/Books/Computer%20science/socialengineering_thescienceofhumanhacking_2ndedition.pdf"
+      },
+      {
+        "name": "Github-topic🗡️",
+        "type": "url",
+        "url": "https://github.com/topics/social-engineering"  
+      }],
+      "name": "Social Engineering",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Roadmap📝",
+        "type": "url",
+        "url": "https://securityflow.io/roadmap/"
+      },
+      {
+        "name": "Sans542🖥️",
+        "type": "url",
+        "url": "https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/"
+      },
+      {
+        "name": "Sans642🖥️",
+        "type": "url",
+        "url": "https://www.sans.org/webcasts/whats-covered-advanced-web-app-pen-testing-course-sec642-asking-108850/"
+      },
+      {
+        "name": "Owasp-top10📝",
+        "type": "url",
+        "url": "https://owasp.org/www-project-top-ten/"
+      },
+      {
+        "name": "Hacktricks📝",
+        "type": "url",
+        "url": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web"
+      },
+      {
+        "name": "PayloadsAllTheThings📝",
+        "type": "url",
+        "url": "https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/"
+      },
+      {
+        "name": "Exploit-db🖥️",
+        "type": "url",
+        "url": "https://www.exploit-db.com/"
+      },
+      {
+        "name": "Web-hacking-book🖥️",
+        "type": "url",
+        "url": "https://www.garthhumphreys.com/hackers-guide-to-web-hacking-10-must-read-books/"
+      },
+      {
+        "name": "Zero-to-hero🖥️",
+        "type": "url",
+        "url": "https://youtu.be/Rp69edBmFFo"
+      },
+      {
+        "name": "Projectdiscovery🗡️",
+        "type": "url",
+        "url": "https://projectdiscovery.io/#/"
+      },
+      {
+        "name": "Dvwa🗡️",
+        "type": "url",
+        "url": "https://github.com/digininja/DVWA"
+      },
+      {
+        "name": "Zaproxy🗡️",
+        "type": "url",
+        "url": "https://www.zaproxy.org/download/"
+      },
+      {
+        "name": "Writeups🗡️",
+        "type": "url",
+        "url": "https://pentester.land/writeups/"
+      },
+      {
+        "name": "Root-me🗡️",
+        "type": "url",
+        "url": "https://www.root-me.org/?lang=en"
+      },
+      {
+        "name": "Portswigger-learningpath📝",
+        "type": "url",
+        "url": "https://portswigger.net/web-security/learning-path"
+      }],
+      "name": "Web Hacking",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Network-Penetration-Testing🖥️",
+        "type": "url",
+        "url": "https://youtu.be/3Kq1MIfTWCE"
+      },
+      {
+        "name": "Wifi-hacking🖥️",
+        "type": "url",
+        "url": "https://github.com/topics/wifi-hacking"
+      },
+      {
+        "name": "Network+🖥️",
+        "type": "url",
+        "url": "https://github.com/PacktPublishing/CompTIA-Network-Certification-N10-008-The-Total-Course"
+      },
+      {
+        "name": "Methodology🖥️",
+        "type": "url",
+        "url": "https://www.appknox.com/blog/network-penetration-testing-methodology"
+      },
+      {
+        "name": "networking-basics-for-hackers🖥️",
+        "type": "url",
+        "url": "https://www.bol.com/nl/nl/p/networking-basics-for-hackers/9300000006548125/"
+      },
+      {
+        "name": "Networks-basics-hacker🖥️",
+        "type": "url",
+        "url": "https://www.hackers-arise.com/networks-basics"
+      },
+      {
+        "name": "Gaining-access🖥️",
+        "type": "url",
+        "url": "https://www.javatpoint.com/gaining-access"
+      },
+      {
+        "name": "Udemy🖥️",
+        "type": "url",
+        "url": "https://www.udemy.com/course/wifi-hacking-penetration-testing-from-scratch/"
+      }],
+      "name": "Network Hacking",
+      "type": "folder"
+    }],
+    "name": "Hacker",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "children": [
+      {
+        "name": "Hunchly🗡️",
+        "type": "url",
+        "url": "http://www.hunch.ly/"
+      },
+      {
+        "name": "Developer-Mozilla🖥️",
+        "type": "url",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document"
+      },
+      {
+        "name": "Burp-Suite🗡️",
+        "type": "url",
+        "url": "https://portswigger.net/burp/download.html"
+      },
+      {
+        "name": "Page2Imagesa🖥️",
+        "type": "url",
+        "url": "http://www.page2images.com/URL-Live-Website-Screenshot-Generator"
+      },
+      {
+        "name": "Archive🖥️",
+        "type": "url",
+        "url": "http://archive.is/"
+      },
+      {
+        "name": "Web-Archive🖥️",
+        "type": "url",
+        "url": "http://web.archive.org/"
+      },
+      {
+        "name": "Similar-Websites-Search🖥️",
+        "type": "url",
+        "url": "https://www.sitelike.org/"
+      },
+      {
+        "name": "Websitedownloader🖥️",
+        "type": "url",
+        "url": "https://websitedownloader.com/"
+      },
+      {
+        "name": "File🖥️",
+        "type": "url",
+        "url": "https://www.file.io/"
+      }],
+      "name": "Web Browsing",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Loom🗡️",
+        "type": "url",
+        "url": "https://www.loom.com/screen-recorder?utm_term=video%20screen%20capture_p&utm_campaign=loom_google_6800_self-serve_web_us_google-search_conversions_cpa_work-signup_non-brand_x_6-12-2023_screen-capture&utm_source=adwords&utm_medium=ppc&utm_content=chrome_cta&hsa_acc=4481576800&hsa_cam=15507659424&hsa_grp=134743397430&hsa_ad=662131794124&hsa_src=g&hsa_tgt=kwd-110016097&hsa_kw=video%20screen%20capture&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad=1&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeo3OkgTHVclPSlJHSF4326j7pom9OX4ozqZTjrBuZdt3G-m8gDECUIaAmESEALw_wcB"
+      },
+      {
+        "name": "ShareX🗡️",
+        "type": "url",
+        "url": "https://getsharex.com/"
+      },
+      {
+        "name": "Greenshot🗡️",
+        "type": "url",
+        "url": "https://getgreenshot.org/"
+      }],
+      "name": "Screen Capture",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
+        "name": "Translate🖥️",
+        "type": "url",
+        "url": "https://translate.google.com/?sl=fa&tl=en&op=translate"
+      },
+      {
+        "name": "VS-Code🗡️",
+        "type": "url",
+        "url": "https://code.visualstudio.com/"
+      },
+      {
+        "name": "Windscribe🗡️",
+        "type": "url",
+        "url": "https://windscribe.com/"
+      },
+      {
+        "name": "Medium🗡️",
+        "type": "url",
+        "url": "https://medium.com/"
+      },
+      {
+        "name": "Microsoft-Office🗡️",
+        "type": "url",
+        "url": "https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b?ef_id=_k_Cj0KCQjwoK2mBhDzARIsADGbjeqI1-CB3trmh_kVuGL8AjQ_v6DtxMdlhYqpsraLu_nIWFqAMpOpBu0aAsU6EALw_wcB_k_&OCID=AIDcmm474qp8el_SEM__k_Cj0KCQjwoK2mBhDzARIsADGbjeqI1-CB3trmh_kVuGL8AjQ_v6DtxMdlhYqpsraLu_nIWFqAMpOpBu0aAsU6EALw_wcB_k_&gad=1&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeqI1-CB3trmh_kVuGL8AjQ_v6DtxMdlhYqpsraLu_nIWFqAMpOpBu0aAsU6EALw_wcB"
+      }],
+      "name": "Required programs",
+      "type": "folder"
+    }],
+    "name": "Documentation",
+    "type": "folder"
+  },
+  {
+    "children": [
+    {
+      "name": "Osint-course🖥️",
+      "type": "url",
+      "url": "https://youtu.be/qwA6MmbeGNo"
+    },
+    {
+      "name": "Osint-Training🖥️",
+      "type": "url",
+      "url": "https://nixintel.info/osint/two-great-osint-training-tools/"
+    },
+    {
+      "name": "Intel-Techniques🖥️",
+      "type": "url",
+      "url": "https://inteltechniques.com/training.html"
+    },
+    {
+      "name": "Osint-tools🖥️",
+      "type": "url",
+      "url": "https://www.comparitech.com/net-admin/osint-tools/"
+    },
+    {
+      "name": "Osint-Techniques🖥️",
+      "type": "url",
+      "url": "https://www.osinttechniques.com/osint-tools.html"
+    },
+    {
+      "name": "Instagram-Osint🖥️",
+      "type": "url",
+      "url": "https://youtu.be/NWyqSbnsvGU"
+    },
+    {
+      "name": "Sans497🖥️",
+      "type": "url",
+      "url": "https://www.sans.org/cyber-security-courses/practical-open-source-intelligence/"
+    },
+    {
+      "name": "Osint-games🖥️",
+      "type": "url",
+      "url": "https://www.osint.games/"
+    }],
+    "name": "Training",
+    "type": "folder"
+  }],
+  "name": "OSINT Framework",
+  "type": "folder"
+}
